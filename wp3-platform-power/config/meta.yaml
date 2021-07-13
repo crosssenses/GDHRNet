@@ -1,0 +1,112 @@
+# PUBLICATION META INFO
+# —————————————————————
+
+title:                  "Viral Information"
+subtitle:               "How States and Platforms Deal with Covid-19-Related Disinformation: an Exploratory Study of 20 Countries"
+authors:                "Matthias C. Kettemann and Martin Fertmann (Eds.)"
+year:                   2020
+date_publication:       Mai 2020
+# date_submission:
+# date_last_updated:
+
+keywords:               COVID-19, online disinformation, infodemic, platform regulation, pandemic, national contexts, governance standards
+abstract:               "This study explores the spread of disinformation relating to the Covid-19 pandemic on the internet, dubbed by some as the pandemic’s accompanying “infodemic”, and the societal reactions to this development across different countries and platforms. The study’s focus is on the role of states and platforms in combatting online disinformation.\n\n
+
+Through synthesizing answers to questions submitted by more than 40 researchers from 20 countries within the GDHR Network, this exploratory study provides a first overview of how states and platforms have dealt with Corona-related disinformation. It analyses the platforms’ willingness and efficacy in removing (presumed) disinformation, shows variances in national and local contexts and sheds light on the roles of Facebook, Twitter, and Instagram. This study provides incentives for further rigorous studies of disinformation governance standards and their impact across different socio-cultural environments.\n\n
+
+**“All human beings are born free and equal in dignity and rights.”**<br>
+The illustration above shows the first sentence of Article 1 of the Universal Declaration of Human Rights (1948) rendered in machine-readable barcode."
+
+cite_as:               "Matthias C. Kettemann and Martin Fertmann (eds.), Viral Information: How States and Platforms Deal with Covid-19-related Disinformation: an Exploratory Study of 20 Countries (Hamburg: Verlag Hans-Bredow- Institut, 2020), GDHRNet Working Paper #1"
+
+# pdf_url:                https://doi.org/10.5281/zenodo.4291999
+# doi:                    10.5281/zenodo.4291999
+# isbn:                   978-989-746-128-6
+contact_email:          m.kettemann@leibniz-hbi.de
+
+short_url:              https://graphite.page/gdhr-wp1
+social_image_url:       https://graphite.page/gdhr-wp1/assets/images/social.png
+lang:                   en
+
+
+# PUBLICATION STYLE
+# —————————————————————
+styles:                 theme/styles/GDHRNet.css
+background_url:         theme/images/bg.png
+
+
+
+# DISCLAIMER
+# —————————————————————
+# data_usage:
+# disclaimer:
+# terms_of_use:
+licence:                CC BY SA 4.0
+
+# Author info is shown in footer bar and on the right, if no logo is provided.
+author_info:            A Global Digital Human Rights Network (GDHRNet) working paper
+logo_url:               theme/images/Logo_GDHRNet_horizontal.svg
+
+
+# SETTINGS
+# —————————————————————
+
+author_info_sticky:     true
+no_journal:             false
+matomo_tracking:        true
+matomo_url:             "https://piwik.wunderjewel.de/"
+matomo_siteId:          "4"
+load_confetti:          false
+
+
+# PUBLISHER INFO
+# thanks for mentioning graphite
+# —————————————————————
+
+brand:                  graphite – Enhanced publications for a digital environment
+brand_url:              https://www.impactdistillery.com/graphite
+brand_logo:             theme/images/graphite.svg
+
+# Infos in expandable header
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by Matthias C. Kettemann and Martin Fertmann.\n\n
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
+
+further_publications:
+   - label: "#1: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+   - label: "#2: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+
+further_links:
+   - label: Global Digital Human Rights Network
+     url: https://gdhrnet.eu
+   - label: COST Action GDHRNet – CA19143
+     url: https://www.cost.eu/actions/CA19143
+
+
+# TABS
+# —————————————————————
+
+:---------------------------------------------------:
+tabs:
+  - title: "Study"
+    ref: "/"
+    slug: index
+    include_abstract: true
+    md_container: article
+  - title: "National Contributions"
+    ref: "/contributions"
+    slug: contributions
+    md_container: article
+  - title: "Executive Summary"
+    ref: "/summary"
+    slug: summary
+    md_container: section
+  - title: "References"
+    ref: "/directories/"
+    slug: directories
+    md_container: section
+  - title: "About the series"
+    ref: "/series/"
+    slug: series
+    md_container: section
