@@ -56,6 +56,7 @@ no_journal:             false
 matomo_tracking:        true
 matomo_url:             "https://piwik.wunderjewel.de/"
 matomo_siteId:          "4"
+load_confetti:          false
 
 
 # PUBLISHER INFO
@@ -67,20 +68,20 @@ brand_url:              https://www.impactdistillery.com/graphite
 brand_logo:             theme/images/graphite.svg
 
 # Infos in expandable header
-# imprint:                "Dieses Manifest ist als Ergebnis der Diskussionen in der [Fokusgruppe Scholar-led](https://open-access.net/digitale-fokusgruppen/fokusgruppe-scholar-led) im Rahmen des Projekts [open-access.network](https://open-access.net/digitale-fokusgruppen) entstanden.\n\n
-# Die Veröffentlichung wurde mit Graphite erstellt, ein Open-Source-Framework für digitales Publizieren."
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by Matthias C. Kettemann and Martin Fertmann.\n\n
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
 
-# further_publications:
-#   - label: Kooperationen zwischen Startups und Mittelstand
-#     url: https://www.impactdistillery.com/graphite/hiig-sum/
-#   - label:  Plattforminnovation im Mittelstand
-#     url: https://graphite.page/hiig-dapla/
+further_publications:
+   - label: "#1: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+   - label: "#2: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
 
-# further_links:
-#   - label: Graphite Projektwebsite
-#     url: https://www.impactdistillery.com/graphite
-#   - label: graphite-paper auf PyPI
-#     url: https://pypi.org/project/graphite-paper
+further_links:
+   - label: Global Digital Human Rights Network
+     url: https://gdhrnet.eu
+   - label: COST Action GDHRNet – CA19143
+     url: https://www.cost.eu/actions/CA19143
 
 
 # TABS

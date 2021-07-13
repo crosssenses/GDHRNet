@@ -1,6 +1,6 @@
 # GDHRNet Working Paper Series
 
-The Working Papers of the Global Digital Human Rights Network – edited by Matthias C. Kettemann and Martin Fertmann – contain both an idealistic and a practice-oriented dimension. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series attempts to reverse this pattern and with the Network’s capability looks to to break or at least question the strengthening grip of the online companies as powerful actors in defining the image of human rights in the digital landscape.
+The Working Papers of the [Global Digital Human Rights Network](https://gdhrnet.eu/) – edited by Matthias C. Kettemann and Martin Fertmann – contain both an idealistic and a practice-oriented dimension. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series attempts to reverse this pattern and with the Network’s capability looks to to break or at least question the strengthening grip of the online companies as powerful actors in defining the image of human rights in the digital landscape.
 :------------- KEYSTATEMENT ------------: 
 ### Publisher
 
@@ -19,6 +19,7 @@ The publication is based upon work from COST Action GDHRNet – CA19143, support
 
 The [GDHRNet COST Action](https://www.cost.eu/actions/CA19143/) will systematically explore the theoretical and practical challenges posed by the online context to the protection of human rights. The network will address whether international human rights law is sufficiently detailed to enable governments and private online companies to understand their respective obligations vis-à-vis human rights protection online. It will evaluate how national governments have responded to the task of providing a regulatory framework for online companies and how these companies have transposed the obligation to protect human rights and combat hate speech online into their community standards. The matters of transparency and accountability will be explored, through the lens of corporate social responsibility. 
 :------------- KEYSTATEMENT ------------: 
+![Logo COST](assets/images/image1.png)
 ### Contact
 
 Action Chair<br>

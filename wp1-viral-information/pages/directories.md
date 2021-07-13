@@ -1,7 +1,7 @@
 
-<h1>Referenzen</h1>
+<h1>References</h1>
 
 :--- LISTOFREFERENCES --:
-title: Liste der Referencen
+title: List of References
 :--------------------:
 

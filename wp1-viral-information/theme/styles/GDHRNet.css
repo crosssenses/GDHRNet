@@ -8674,7 +8674,7 @@ section a:not([class^=ms-]), article a:not([class^=ms-]) {
 }
 .ms-plugin-quote .ms-col-content p {
   font-family: "Cormorant Garamond", Georgia, Times, serif !important;
-  font-size: 1.2rem !important;
+  font-size: 1.3rem !important;
 }
 
 /* Table */
@@ -8699,8 +8699,8 @@ section a:not([class^=ms-]), article a:not([class^=ms-]) {
 
 .serif, article .ms-text ol, article .ms-text ul, article p {
   font-family: "Cormorant Garamond", Georgia, Times, serif;
-  font-size: 1.2rem;
-  font-weight: 300;
+  font-size: 1.3rem;
+  font-weight: 400;
 }
 
 .sans-serif, table td p, table th p, .ms-plugin-quote .ms-col-content .nav-tabs li a, .ms-plugin-quote .ms-col-content p, .ms-plugin-infobox .ms-col-content p, .ms-col-marginal aside p,
