@@ -1,21 +1,19 @@
 # Executive Summary
 
+- Terms-of-service based actions against political and state actors as both key subjects and objects of political opinion formation have become a focal point of the ongoing debates over who should set and enforce the rules for speech on online platforms.
 
--   This study explores the spread of disinformation relating to the Covid-19 pandemic on the internet, dubbed by some as the pandemic’s accompanying “infodemic,” and the societal reactions to this development across different countries and platforms. The study’s focus is on the role of states and platforms in combatting online disinformation.
+- With minor differences depending on national contexts, state regulation of platforms creating obligations to disseminate such actors’ information is considered dangerous for the free and unhindered discursive process that leads to the formation of public opinions.
 
--   Through synthesizing answers to questions submitted by more than 40 researchers from 20 countries within the GDHR Network, this exploratory study provides a first overview of how states and platforms have dealt with Corona-related disinformation. This can also provide incentives for further rigorous studies of disinformation governance standards and their impact across different socio-cultural environments.
+- Reactions to the suspension of Trump as not the first, but the most widely discussed action of platform companies against a politician (and incumbent president) provide a glimpse on the state of platform governance debates across participating countries.
 
--   Regarding the platforms’ willingness and efficacy in removing
-(presumed) disinformation, a majority of submissions identifies a shift towards more intervention in pandemic times. Most submitters assess that this shift is widely welcomed in their respective countries and more often considered as taking place too slowly
-(rather than being perceived as entailing dangers for unjustified restrictions of freedom of expression). The picture is less clear when it comes to enforcing non-speech related infection prevention measures.
+- Across the countries surveyed politicians tend to see the exercise of content moderation policies of large platform companies very critically
 
--   While the dominant platforms have been able to defend, or even solidify, their position during the pandemic, communicative practices on those platforms are changing. For officials, this includes an increasing reliance on platforms, especially social networks, for communicating infection prevention rules and recommendations. For civil society, the pandemic has brought an increasing readiness – and perceived need – to intervene against disinformation, especially through fact-checking initiatives.
+- The majority of politicians in European countries seem to be critical of the deplatforming of Trump, emphasizing fundamental rights and calling for such decisions to be made by states, not private companies
 
--   National and local contexts show great variance at whether platform-driven disinformation is conceived as a societal problem.
-In countries where official sources are distrusted and/or seen as disseminating disinformation criticism against private information governance by platforms remains muted. In countries where official sources are trusted disinformation present on platforms is seen more negatively.
+- These political standpoints stand in an unresolved conflict with the constitutional realities of participating countries, where incumbents usually cannot invoke fundamental rights when acting in their official capacities and where laws with “must carry” requirements for official information do not exist for social media and would likely only be constitutional for narrowly defined, special circumstances such as disaster prevention.
 
--   While Facebook, Twitter, and Instagram play important roles in the pandemic communication environment, some replies point towards an increasing importance of messaging apps for the circulation of Covid-19-related disinformation. These apps, like Telegram or WhatsApp, tend to fall under the radar of researchers, because visibility of content is limited and scraping is difficult, and because they are not covered by Network Enforcement Act-type laws that usually exclude one-to-one communication platforms (even if they offer one-to-many channels).
+- Facebooks’ referral of the Trump-decision to its Oversight Board sparked a larger debate about institutional structures for improving content governance. The majority of participating countries has experience with self- or co-regulatory press-, media- or broadcasting councils to which comparisons can be drawn, foreshadowing the possible (co-regulatory) future of governing online speech.
 
--   Vis-à-vis widespread calls for a (re)territorialization of their content governance standards and processes amid the pandemic,
-platform companies have maintained, by and large, global standards. Standardized, featured sections for national (health)
-authorities to distribute official information via platforms are exceptions thereto.
+- Media commentators in participating countries interpreted the deplatforming of Trump as a signal that far-right parties and politicians around the world may face increasing scrutiny, while conservative politicians and governments in multiple participating countries instrumentalized the actions against Trump as supposed proof of platform’s bias against conservative opinions.
+
+- Even without specific legal requirements on content moderation, submissions from several countries refer to a general – often: constitutional – privileging of speech of politicians and office holders. This could potentially support or even compel the decisions of platforms to leave content of political actors up even if it violates their terms of service.

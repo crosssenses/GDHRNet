@@ -334,71 +334,56 @@
 </table>
 :--- KEYSTATEMENT ---:
 <h3>Contributors by country:</h3>
-<p style="font-weight: 300;"><strong>Albania:</strong><br>
-<a href="mailto:anisiamandro@yahoo.com">Anisia Mandro</a>, 
-<a href="mailto:laurenakalaja@hotmail.com">Laurena Kalaja</a><br><br>
-<strong>Argentina:</strong><br>
-<a href="mailto:oscarpuccinelli@gmail.com">Oscar Raúl Puccinelli</a><br><br>
-<strong>Belgium:</strong><br>
-Liesa Keunen, 
-Judith Vermeulen, 
-<a href="mailto:eva.lievens@ugent.be">Eva Lievens</a><br><br>
-<strong>Bosnia and Herzegovina:</strong><br>
-<a href="mailto:sejla.maslo.cerkic@gmail.com">Šejla Maslo Čerkić</a><br><br>
-<strong>Croatia:</strong><br>
-<a href="mailto:vesnacg@pravri.hr">Vesna Crnic-Grotic</a><br><br>
-<strong>Cyprus:</strong><br>
-<a href="mailto:law.ck@frederick.ac.cy">Konstantinos Kouroupis</a><br><br>
-<strong>Denmark:</strong><br>
-<a href="mailto:lopez@di.ku.dk">Hugo A. López</a>, 
-Asbjørn Ammitzbøll Flügge<br><br>
-<strong>Estonia:</strong><br>
-<a href="mailto:mart.susi@tlu.ee">Mart Susi</a>, 
-<a href="mailto:tiina.pajuste@tlu.ee">Tiina Pajuste</a><br><br>
-<strong>Finland:</strong><br>
-<a href="mailto:jukka.viljanen@tuni.fi">Jukka Viljanen</a>, 
-Riku Neuvonen<br><br>
-<strong>Germany:</strong><br>
-<a href="mailto:maximilian.beyer@uni-jena.de">Maximilian Beyer</a>, 
-<a href="mailto:m.fertmann@leibniz-hbi.de">Martin Fertmann</a>, 
-<a href="mailto:m.kettemann@leibniz-hbi.de">Matthias C. Kettemannm</a>, 
-Torben Klausa, 
-<a href="mailto:thomas.wischmeyer@uni-bieleld.de">Thomas Wischmeyer</a><br><br>
-<strong>Israel:</strong><br>
-<a href="mailto:sommer@idc.ac.il">Hillel Sommer</a><br><br>
-<strong>Italy:</strong><br>
-<a href="mailto:graziella.romeo@unibocconi.it">Graziella Romeo</a>, 
-<a href="mailto:federico.costantini@uniud.it">Federico Costantini</a><br><br>
-<strong>Latvia:</strong><br>
-<a href="mailto:arturs.kucs@lu.lv">Artūrs Kučs</a>, 
-<a href="mailto:madara.melnika@gmail.com">Madara Meļņika</a><br><br>
-<strong>Lithuania:</strong><br>
-<a href="mailto:vygante.milasiute@tf.vu.lt">Vygantė Milašiūtė</a>, 
-Skirgailė Žalimienė<br><br>
-<strong>Moldova:</strong><br>
-<a href="mailto:elinabenea@gmail.com">Elina Benea-Popușoi</a><br><br>
-<strong>Norway:</strong><br>
-<a href="mailto:ngvill.helland@uia.no">Ingvill Helland Göller</a>, 
-<a href="mailto:gentian.zyberi@nchr.uio.no">Gentian Zyberi</a><br><br>
-<strong>Portugal:</strong><br>
-<a href="mailto:aldp@fd.uc.pt">Alexandre Pereira</a>, 
-<a href="mailto:pveiga@fd.uc.pt">Paula Veiga</a>, 
-<a href="mailto:ngarcia@di.ubi.pt">N. Garcia (a)</a>, 
-<a href="mailto:jorge.manuel.ferreira@iscte-iul.pt">Jorge Ferreira (b) </a><br><br>
-<strong>Serbia:</strong><br>
-<a href="mailto:besirevv@ceu.edu">Violeta Beširević</a>, 
-<a href="mailto:jelena.simic@pravnifakultet.rs">Jelena Simić</a>, 
-<a href="mailto:alavuk@pravni-fakultet.info">Marijana Mladenov </a><br><br>
-<strong>South Africa:</strong><br>
-<a href="mailto:cathleen.powell@uct.ac.za">Cathleen Powell</a>, 
-<a href="mailto:tobias.schonwetter@uct.ac.za">Tobias Schonwetter</a>, 
-<a href="mailto:neil@africanlii.org">Neil du Toit </a><br><br>
-<strong>Spain:</strong><br>
-<a href="mailto:jordi.barrat@urv.cat">Jordi Barrat Esteve</a>, 
-Celia Fernandez-Aller, 
-Beatriz Peña-Acuña, 
-Javier Sierra-Rodríguez, 
-Pedro Manuel Quesada López</p>
+<p style="font-weight: 300;"><strong>Belgium</strong><br>
+<a href="mailto:liesa.keunen@ugent.be">Liesa Keunen </a>, 
+<a href="mailto:judith.vermeulen@ugent.be">Judith Vermeulen </a>, 
+<a href="mailto:eva.lievens@ugent.be">Eva Lievens </a><br><br>
+<strong>Bosnia and Herzegovina </strong><br>
+<a href="mailto:sejla.maslo.cerkic@gmail.com">Šejla Maslo Čerkić </a><br><br>
+<strong>Cyprus</strong><br>
+<a href="mailto:law.ck@frederick.ac.cy">Konstantinos Kouroupis </a><br><br>
+<strong>Finland</strong><br>
+Jukka Viljanen, 
+<a href="mailto:jukka.viljanen@tuni.fi">Riku Neuvonen </a><br><br>
+<strong>France</strong><br>
+<a href="mailto:Meryem.Marzouki@lip6.fr">Meryem Marzouki </a><br><br>
+<strong>Germany</strong><br>
+<a href="mailto:m.fertmann@leibniz-hbi.de">Martin Fertmann </a>, 
+<a href="mailto:j.boeke@leibniz-hbi.de">Julius Böke </a>, 
+<a href="mailto:m.kettemann@leibniz-hbi.de">Matthias C. Kettemann </a>, 
+<a href="mailto:torben.klausa@uni-bielefeld.de">Torben Klausa </a>, 
+<a href="mailto:thomas.wischmeyer@uni-bielefeld.de">Thomas Wischmeyer </a><br><br>
+<strong>Greece</strong><br>
+<a href="mailto:m.dimogerontakis@legalshield365.com">Manos Dimogerontakis </a>, 
+<a href="mailto:avarver@law.uoa.gr">Alexandros Varveris </a>, 
+<a href="mailto:gyannop@law.uoa.gr">Georgios Yannopoulos </a><br><br>
+<strong>Hungary</strong><br>
+<a href="mailto:polyak.gabor@mertek.eu">Gabor Polyak </a><br><br>
+<strong>Iceland</strong><br>
+<a href="mailto:eirikurj@hi.is">Eiríkur Jónsson </a>, 
+<a href="mailto:halldorath@ru.is">Halldóra Þorsteinsdóttir </a><br><br>
+<strong>Ireland</strong><br>
+<a href="mailto:tjmcintyre@ucd.ie">TJ McIntyre </a><br><br>
+<strong>Italy</strong><br>
+<a href="mailto:federico.costantini@uniud.it">Federico Costantini </a>, 
+<a href="mailto:degregorio.giovanni@unibocconi.it">Giovanni De Gregorio </a>, 
+<a href="mailto:graziella.romeo@unibocconi.it">Graziella Romeo </a><br><br>
+<strong>Latvia</strong><br>
+<a href="mailto:madara.melnika@gmail.com">Madara Meļņika </a>, 
+<a href="mailto:arturs.kucs@lu.lv">Artūrs Kučs </a><br><br>
+<strong>Lithuania</strong><br>
+<a href="mailto:vygante.milasiute@tf.vu.lt">Vygantė Milašiūtė </a><br><br>
+<strong>Norway</strong><br>
+Kristine Røysland Hernes, 
+<a href="mailto:ingvill.h.goller@uia.no">Ingvill Helland Göller </a>, 
+<a href="mailto:gentian.zyberi@nchr.uio.no">Gentian Zyberi </a><br><br>
+<strong>Portugal</strong><br>
+Alexandre Pereira<br><br>
+<strong>Serbia</strong><br>
+<a href="mailto:jelena.simic@pravnifakultet.rs">Jelena Simić </a>, 
+Sanja Škorić, 
+Milena Galetin, 
+Marijana Mladenov</p>
 :---:
 
 :-------------------- CHAPTER_HEADER --------------------:

@@ -24,8 +24,8 @@ cite_as:               "Matthias C. Kettemann and Martin Fertmann (eds.), Viral 
 # isbn:                   978-989-746-128-6
 contact_email:          m.kettemann@leibniz-hbi.de
 
-short_url:              https://graphite.page/gdhr-wp1
-social_image_url:       https://graphite.page/gdhr-wp1/assets/images/social.png
+short_url:              https://graphite.page/GDHRNet-WP1
+social_image_url:       https://graphite.page/GDHRNet-WP1/assets/images/social.png
 lang:                   en
 
 
@@ -101,10 +101,6 @@ tabs:
   - title: "Executive Summary"
     ref: "/summary"
     slug: summary
-    md_container: section
-  - title: "References"
-    ref: "/directories/"
-    slug: directories
     md_container: section
   - title: "About the series"
     ref: "/series/"
