@@ -537,8 +537,8 @@ ref164:
     short: "The study is available in the Serbian language at https://fakenews.rs/wp-content/uploads/Korona-i-infodemija-u-Srbiji2020.pdf"
     long: "The study is available in the Serbian language at https://fakenews.rs/wp-content/uploads/Korona-i-infodemija-u-Srbiji2020.pdf"
 ref165:
-    short: "*Ibid*., p. 7."
-    long: "*Ibid*., p. 7."
+    short: "The study is available in the Serbian language at https://fakenews.rs/wp-content/uploads/Korona-i-infodemija-u-Srbiji2020.pdf, p. 7."
+    long: "The study is available in the Serbian language at https://fakenews.rs/wp-content/uploads/Korona-i-infodemija-u-Srbiji2020.pdf, p. 7."
 ref166:
     short: "See BBC News in Serbian, “Corona Virus, Blanka and China: Conspiracy Theories, Canards and Misconceptions” (29.01.2020) at https://www.bbc.com/serbian/lat/svet-51292766 sup5/supEuropean Communication Monitor, *The Report of 2018*, p. 17, available at https://www.communicationmonitor.eu/2018/06/13/ecm-european-communication-monitor-2018/. See at https://www.raskrikavanje.rs/covid19/?vrsta=dezinformacije."
     long: "See BBC News in Serbian, “Corona Virus, Blanka and China: Conspiracy Theories, Canards and Misconceptions” (29.01.2020) at https://www.bbc.com/serbian/lat/svet-51292766 sup5/supEuropean Communication Monitor, *The Report of 2018*, p. 17, available at https://www.communicationmonitor.eu/2018/06/13/ecm-european-communication-monitor-2018/. See at https://www.raskrikavanje.rs/covid19/?vrsta=dezinformacije."
@@ -584,28 +584,33 @@ ref177:
     long: "Tim Verheyden, ‘Facebook, Google, Twitter En Co Schouder Aan Schouder in Strijd Tegen Valse Informatie over Coronavirus’ *VRT NWS* (18 February 2020) https://www.vrt.be/vrtnws/nl/2020/02/18/desinformatiecoronavirus"
     url: "https://www.vrt.be/vrtnws/nl/2020/02/18/desinformatiecoronavirus"
 ref178:
-    short: "Ibid."
-    long: "Ibid."
+    short: "Tim Verheyden, ‘Facebook, Google, Twitter En Co Schouder Aan Schouder in Strijd Tegen Valse Informatie over Coronavirus’ *VRT NWS* (18 February 2020)"
+    long: "Tim Verheyden, ‘Facebook, Google, Twitter En Co Schouder Aan Schouder in Strijd Tegen Valse Informatie over Coronavirus’ *VRT NWS* (18 February 2020) https://www.vrt.be/vrtnws/nl/2020/02/18/desinformatiecoronavirus"
+    url: "https://www.vrt.be/vrtnws/nl/2020/02/18/desinformatiecoronavirus"
 ref179:
     short: "Facebook Helps Us to Promote Reliable Information About the New Coronavirus Covid-19’ (*Coronavirus Covid-19*, 24 February 2020)"
     long: "Facebook Helps Us to Promote Reliable Information About the New Coronavirus Covid-19’ (*Coronavirus Covid-19*, 24 February 2020) https://www.info-coronavirus.be/en/news/facebook-helps-us-to-promote-reliable-information-about-the-new-covid-19"
     url: "https://www.info-coronavirus.be/en/news/facebook-helps-us-to-promote-reliable-information-about-the-new-covid-19"
 ref180:
-    short: "Ibid."
-    long: "Ibid."
+    short: "Facebook Helps Us to Promote Reliable Information About the New Coronavirus Covid-19’ (*Coronavirus Covid-19*, 24 February 2020)"
+    long: "Facebook Helps Us to Promote Reliable Information About the New Coronavirus Covid-19’ (*Coronavirus Covid-19*, 24 February 2020) https://www.info-coronavirus.be/en/news/facebook-helps-us-to-promote-reliable-information-about-the-new-covid-19"
+    url: "https://www.info-coronavirus.be/en/news/facebook-helps-us-to-promote-reliable-information-about-the-new-covid-19"
 ref181:
     short: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020)"
     long: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020) https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
     url: "https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
 ref182:
-    short: "Ibid."
-    long: "Ibid."
+    short: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020)"
+    long: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020) https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
+    url: "https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
 ref183:
-    short: "Ibid."
-    long: "Ibid."
+    short: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020)"
+    long: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020) https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
+    url: "https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
 ref184:
-    short: "Ibid."
-    long: "Ibid."
+    short: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020)"
+    long: "‘Twitter Promoot FOD Volksgezondheid in Strijd Tegen Fake News over Coronavirus’ *Metro* (2 July 2020) https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
+    url: "https://nl.metrotime.be/2020/02/07/news/twitter-promoot-fod-volksgezondheid-in-strijd-tegen-fake-news-over-coronavirus"
 ref185:
     short: "Ibid; Tim Verheyden, ‘Facebook, Google, Twitter En Co Schouder Aan Schouder in Strijd Tegen Valse Informatie over Coronavirus’ *VRT NWS* (18 February 2020)"
     long: "Ibid; Tim Verheyden, ‘Facebook, Google, Twitter En Co Schouder Aan Schouder in Strijd Tegen Valse Informatie over Coronavirus’ *VRT NWS* (18 February 2020) https://www.vrt.be/vrtnws/nl/2020/02/18/desinformatiecoronavirus"
@@ -1305,15 +1310,17 @@ ref380:
     long: "Rik Arnoudt, ‘Mondmaskerplicht in Winkels: “We Rekenen Op Gezond Verstand van de Mensen”, Zegt Premier Wilmès’ *VRT NWS* (10 July 2020). https://www.vrt.be/vrtnws/nl/2020/07/10/mondmaskerplicht-in-winkels-we-rekenen-op-gezond-verstand-van"
     url: "https://www.vrt.be/vrtnws/nl/2020/07/10/mondmaskerplicht-in-winkels-we-rekenen-op-gezond-verstand-van"
 ref381:
-    short: "Ibid."
-    long: "Ibid."
+    short: "Rik Arnoudt, ‘Mondmaskerplicht in Winkels: “We Rekenen Op Gezond Verstand van de Mensen”, Zegt Premier Wilmès’ *VRT NWS* (10 July 2020)."
+    long: "Rik Arnoudt, ‘Mondmaskerplicht in Winkels: “We Rekenen Op Gezond Verstand van de Mensen”, Zegt Premier Wilmès’ *VRT NWS* (10 July 2020). https://www.vrt.be/vrtnws/nl/2020/07/10/mondmaskerplicht-in-winkels-we-rekenen-op-gezond-verstand-van"
+    url: "https://www.vrt.be/vrtnws/nl/2020/07/10/mondmaskerplicht-in-winkels-we-rekenen-op-gezond-verstand-van"
 ref382:
     short: "Hilde De Windt, ‘Knokke-Heist Dreigt de NMBS in Gebreke Te Stellen Voor Export van Covid-19 Naar de Kust: “Te Weinig Controle”’ *VRT NWS* (29 June 2020)."
     long: "Hilde De Windt, ‘Knokke-Heist Dreigt de NMBS in Gebreke Te Stellen Voor Export van Covid-19 Naar de Kust: “Te Weinig Controle”’ *VRT NWS* (29 June 2020). https://www.vrt.be/vrtnws/nl/2020/06/29/knokke-heist-dreigt-de-nmbs-in-gebreke-te-stellen-voor-export"
     url: "https://www.vrt.be/vrtnws/nl/2020/06/29/knokke-heist-dreigt-de-nmbs-in-gebreke-te-stellen-voor-export"
 ref383:
-    short: "Ibid."
-    long: "Ibid."
+    short: "Hilde De Windt, ‘Knokke-Heist Dreigt de NMBS in Gebreke Te Stellen Voor Export van Covid-19 Naar de Kust: “Te Weinig Controle”’ *VRT NWS* (29 June 2020)."
+    long: "Hilde De Windt, ‘Knokke-Heist Dreigt de NMBS in Gebreke Te Stellen Voor Export van Covid-19 Naar de Kust: “Te Weinig Controle”’ *VRT NWS* (29 June 2020). https://www.vrt.be/vrtnws/nl/2020/06/29/knokke-heist-dreigt-de-nmbs-in-gebreke-te-stellen-voor-export"
+    url: "https://www.vrt.be/vrtnws/nl/2020/06/29/knokke-heist-dreigt-de-nmbs-in-gebreke-te-stellen-voor-export"
 ref384:
     short: "https://www.klix.ba/vijesti/bih/vise-od-hiljadu-roditelja-na-protestima-u-mostaru-ako-mogu-svadbe-mogu-i-skole/200914133 https://www.bljesak.info/sci-tech/obrazovanje/roditelji-spremaju-odvjetnike-i-veliki-prosvjed/326183"
     long: "https://www.klix.ba/vijesti/bih/vise-od-hiljadu-roditelja-na-protestima-u-mostaru-ako-mogu-svadbe-mogu-i-skole/200914133 https://www.bljesak.info/sci-tech/obrazovanje/roditelji-spremaju-odvjetnike-i-veliki-prosvjed/326183"
@@ -1447,8 +1454,8 @@ ref421:
     short: "Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid; Wim Winckelmans, ‘Dalle Schakelt Influencers in Om Jongeren Te Bereiken’ *De Standaard* (20 July 2020) https://www.standaard.be/cnt/dmf20200719_97523518; Bert Provoost, ‘Minister Dalle Schakelt Influencers in Om Belang Contactopsporing Te Benadrukken’ *Gazet van Antwerpen* (30 July 2020) https://www.gva.be/cnt/dmf20200730_96241877; Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid; Vlaamse Overheid, “#VoorElkaar”, *Facebook* (16 July 2020), https://www.facebook.com/watch/?v=3303179353036457"
     long: "Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid/; Wim Winckelmans, ‘Dalle Schakelt Influencers in Om Jongeren Te Bereiken’ *De Standaard* (20 July 2020) https://www.standaard.be/cnt/dmf20200719_97523518; Bert Provoost, ‘Minister Dalle Schakelt Influencers in Om Belang Contactopsporing Te Benadrukken’ *Gazet van Antwerpen* (30 July 2020) https://www.gva.be/cnt/dmf20200730_96241877; Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid/; Vlaamse Overheid, “#VoorElkaar”, *Facebook* (16 July 2020), https://www.facebook.com/watch/?v=3303179353036457."
 ref422:
-    short: "Ibid."
-    long: "Ibid."
+    short: "Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid; Wim Winckelmans, ‘Dalle Schakelt Influencers in Om Jongeren Te Bereiken’ *De Standaard* (20 July 2020) https://www.standaard.be/cnt/dmf20200719_97523518; Bert Provoost, ‘Minister Dalle Schakelt Influencers in Om Belang Contactopsporing Te Benadrukken’ *Gazet van Antwerpen* (30 July 2020) https://www.gva.be/cnt/dmf20200730_96241877; Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid; Vlaamse Overheid, “#VoorElkaar”, *Facebook* (16 July 2020), https://www.facebook.com/watch/?v=3303179353036457"
+    long: "Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid/; Wim Winckelmans, ‘Dalle Schakelt Influencers in Om Jongeren Te Bereiken’ *De Standaard* (20 July 2020) https://www.standaard.be/cnt/dmf20200719_97523518; Bert Provoost, ‘Minister Dalle Schakelt Influencers in Om Belang Contactopsporing Te Benadrukken’ *Gazet van Antwerpen* (30 July 2020) https://www.gva.be/cnt/dmf20200730_96241877; Michaël Torfs, ‘#IKREDLEVENS Is Nieuwe Campagne van Vlaamse Overheid: Doe de Check-Check-Check’ *VRT NWS* (28 March 2020) https://www.vrt.be/vrtnws/nl/2020/03/26/corona-campagne-vlaamse-overheid/; Vlaamse Overheid, “#VoorElkaar”, *Facebook* (16 July 2020), https://www.facebook.com/watch/?v=3303179353036457."
 ref423:
     short: "https://www.vrt.be/vrtnws/nl/2020/03/13/coronavirus-antwoord-op-uw-vragen/."
     long: "https://www.vrt.be/vrtnws/nl/2020/03/13/coronavirus-antwoord-op-uw-vragen/."

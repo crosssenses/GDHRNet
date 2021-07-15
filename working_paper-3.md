@@ -132,7 +132,7 @@ Serbia Jelena Simić, Sanja Škorić, Milena Galetin, Marijana Mladenov <alavuk@
 
 [a) Are social networks obliged to be more careful in restricting content from these actors (more so than with content from ordinary users), e.g. because of the public interest in their speech? 57](#a-are-social-networks-obliged-to-be-more-careful-in-restricting-content-from-these-actors-more-so-than-with-content-from-ordinary-users-e.g.-because-of-the-public-interest-in-their-speech)
 
-[b) Vice-versa: Are social networks obliged to treat these actors the same as ordinary users, so that a differentiation may amount to discrimination? 57](#b-vice-versa-are-social-networks-obliged-to-treat-these-actors-the-same-as-ordinary-users-so-that-a-differentiation-may-amount-to-discrimination)
+[ 57](#b-vice-versa-are-social-networks-obliged-to-treat-these-actors-the-same-as-ordinary-users-so-that-a-differentiation-may-amount-to-discrimination)
 
 [Question 6: Even if there are no explicit legal requirements, is the argumentation by platforms to leave content from political actors available even if it violates their terms of service plausible seen from your legal point of view? 64](#question-6-even-if-there-are-no-explicit-legal-requirements-is-the-argumentation-by-platforms-to-leave-content-from-political-actors-available-even-if-it-violates-their-terms-of-service-plausible-seen-from-your-legal-point-of-view)
 
