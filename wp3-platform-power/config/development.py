@@ -26,5 +26,5 @@ TEMPLATES[0]["DIRS"] = [LOCAL_JINJA_PATH, ] + TEMPLATES[0]["DIRS"]
 
 # Domains
 
-SHARE_DOMAIN = "http://graphite.page/scholar-led-manifesto/"
-SHARE_DOMAIN_FULL = "https://graphite.page/scholar-led-manifesto/"
+SHARE_DOMAIN = "https://graphite.page/GDHRNet-WP3/"
+SHARE_DOMAIN_FULL = "https://graphite.page/GDHRNet-WP3/"
