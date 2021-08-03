@@ -234,7 +234,7 @@ Kristine Røysland Hernes,
 <a href="mailto:ingvill.h.goller@uia.no">Ingvill Helland Göller </a>, 
 <a href="mailto:gentian.zyberi@nchr.uio.no">Gentian Zyberi </a><br><br>
 <strong>Portugal</strong><br>
-Alexandre Pereira<br><br>
+<a href="mailto:aldp@fd.uc.pt">Alexandre Pereira</a><br><br>
 <strong>Serbia</strong><br>
 <a href="mailto:jelena.simic@pravnifakultet.rs">Jelena Simić </a>, 
 Sanja Škorić, 
