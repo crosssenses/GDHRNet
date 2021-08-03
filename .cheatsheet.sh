@@ -13,3 +13,17 @@ Counties:
     replace with
 
 <a href="#heading-$1" style="text-decoration: underline">$2</a>,\n
+
+
+\[\^(\d*)\]: (.*)
+
+    replace with
+
+ref$1:\n    short: "$2"\n    long: "$2"
+
+
+\[\^(\d*)\]
+
+    replace with
+
+[: REFERENCE | ref$1 |:]

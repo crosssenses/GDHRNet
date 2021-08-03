@@ -1,0 +1,111 @@
+# PUBLICATION META INFO
+# —————————————————————
+
+title:                  "Covid-19 “Vaccine Passports”"
+subtitle:               "An Exploratory Study of 23 Countries"
+authors:                "Mart Susi and Tiina Pajuste (Eds.)"
+year:                   2021
+date_publication:       February 2021
+# date_submission:
+# date_last_updated:
+
+keywords:               COVID-19, vaccine passport, national regulation, pandemic, national contexts, citizens, discrination, private enforment, blockchain, profiling
+abstract:               "This comparative study looks into the proposed “vaccine passport” initiative from various human rights aspects. The findings are based on responses to questions put to the network members by the authors of this study in February 2021 (questions attached in Annex I). We acknowledge individual contributions from colleagues (listed in the table of contributors above), whose views are sometimes presented in a generalised fashion.\n\n
+
+The study concentrated on the availability of a legal framework for the
+proposed “vaccine passport”, whether such a “passport” would create
+binding obligations in the public and private sectors or, alternatively,
+what would be the scope of discretion allowed to public and private
+entities to make their decisions affecting rights holders’ access to
+various services.\n\n
+
+**“All human beings are born free and equal in dignity and rights.”**<br>
+The illustration above shows the first sentence of Article 1 of the Universal Declaration of Human Rights (1948) rendered in machine-readable barcode."
+
+cite_as:               "Mart Susi and Tiina Pajuste (Eds.), Covid-19 “Vaccine Passports”: An Exploratory Study of 23 Countries (Tallinn: Tallinn University, 2021) GDHRNet Working Paper #2"
+
+# pdf_url:                https://doi.org/10.5281/zenodo.4291999
+# doi:                    10.5281/zenodo.4291999
+# isbn:                   978-989-746-128-6
+contact_email:          mart.susi@tlu.ee
+
+short_url:              https://graphite.page/GDHRNet-WP2
+social_image_url:       https://graphite.page/GDHRNet-WP2/assets/images/social.png
+lang:                   en
+
+
+# PUBLICATION STYLE
+# —————————————————————
+styles:                 theme/styles/GDHRNet.css
+background_url:         theme/images/bg.png
+
+
+
+# DISCLAIMER
+# —————————————————————
+# data_usage:
+# disclaimer:
+# terms_of_use:
+licence:                CC BY SA 4.0
+
+# Author info is shown in footer bar and on the right, if no logo is provided.
+author_info:            A Global Digital Human Rights Network (GDHRNet) working paper
+logo_url:               theme/images/Logo_GDHRNet_horizontal.svg
+
+
+# SETTINGS
+# —————————————————————
+
+author_info_sticky:     true
+no_journal:             false
+matomo_tracking:        true
+matomo_url:             "https://piwik.wunderjewel.de/"
+matomo_siteId:          "4"
+load_confetti:          false
+
+
+# PUBLISHER INFO
+# thanks for mentioning graphite
+# —————————————————————
+
+brand:                  graphite – Enhanced publications for a digital environment
+brand_url:              https://www.impactdistillery.com/graphite
+brand_logo:             theme/images/graphite.svg
+
+# Infos in expandable header
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by by Mart Susi and Matthias C. Kettemann.\n\n
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
+
+further_publications:
+   - label: "#1: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+   - label: "#2: Covid-19 “Vaccine Passport”"
+     url: https://graphite.page/GDHRNet-WP2
+   - label: "#3: Can Platforms Cancel Politicians?"
+     url: https://graphite.page/GDHRNet-WP3
+
+further_links:
+   - label: Global Digital Human Rights Network
+     url: https://gdhrnet.eu
+   - label: COST Action GDHRNet – CA19143
+     url: https://www.cost.eu/actions/CA19143
+
+
+# TABS
+# —————————————————————
+
+:---------------------------------------------------:
+tabs:
+  - title: "Study"
+    ref: "/"
+    slug: index
+    include_abstract: true
+    md_container: article
+  - title: "Executive Summary"
+    ref: "/summary"
+    slug: summary
+    md_container: section
+  - title: "About the series"
+    ref: "/series/"
+    slug: series
+    md_container: section
