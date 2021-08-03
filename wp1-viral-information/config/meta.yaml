@@ -68,14 +68,14 @@ brand_url:              https://www.impactdistillery.com/graphite
 brand_logo:             theme/images/graphite.svg
 
 # Infos in expandable header
-imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by Matthias C. Kettemann and Martin Fertmann.\n\n
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by by Mart Susi and Matthias C. Kettemann.\n\n
 The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
 
 further_publications:
    - label: "#1: Viral Information"
      url: https://graphite.page/GDHRNet-WP1
-   - label: "#2: Viral Information"
-     url: https://graphite.page/GDHRNet-WP1
+   - label: "#3: Can Platforms Cancel Politicians?"
+     url: https://graphite.page/GDHRNet-WP3
 
 further_links:
    - label: Global Digital Human Rights Network
