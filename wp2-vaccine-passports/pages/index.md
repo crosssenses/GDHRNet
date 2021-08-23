@@ -752,7 +752,7 @@ title: "Contributors by Country"
     <tr><td>Lithuania</td><td>Vygantė Milašiūtė , Deimilė Prapiestytė, Skirgailė Žalimienė</td></tr>
     <tr><td>Malta</td><td>Jasper Schellekens, Krista Bonello Rutter Giappone</td></tr>
     <tr><td>Portugal</td><td>Paula Veiga, Alexandre L Dias Pereira</td></tr>
-    <tr><td>Romania</td><td>Flavia Ghencea *et al*</td></tr>
+    <tr><td>Romania</td><td>Flavia Ghencea et al.</td></tr>
     <tr><td>Serbia</td><td>Jelena Simić, Violeta Beširević, Marijana Mladenov</td></tr>
     <tr><td>Slovakia</td><td>Barbora Badurová</td></tr>
     <tr><td>Slovenia</td><td>Pika Šarf, Aleš Završnik</td></tr>
