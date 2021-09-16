@@ -4,193 +4,205 @@
     <tr>
         <td width="150px">Question 1</td>
         <td><a href="#heading-38" title="Jump to question">How did your countries' politicians, media and public opinion react to the suspensions and deletions of Trumps accounts from social networks? Please include emblematic quotes if available.</a><br>
-            <a href="#heading-39" style="text-decoration: underline">Belgium (relating to Flanders)</a>,
-            <a href="#heading-59" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-64" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-66" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-71" style="text-decoration: underline">France</a>,
-            <a href="#heading-74" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-77" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-79" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-82" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-87" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-95" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-98" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-107" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-115" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-121" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-127" style="text-decoration: underline">Serbia</a>
+            <a href="#heading-39" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-44" style="text-decoration: underline">Belgium (relating to Flanders)</a>,
+            <a href="#heading-64" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-69" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-71" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-76" style="text-decoration: underline">France</a>,
+            <a href="#heading-79" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-82" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-84" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-87" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-92" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-100" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-103" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-112" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-120" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-126" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-132" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 2</td>
-        <td><a href="#heading-130" title="Jump to question">Have politicians, political parties or authorities in your country faced restrictions such as warning labels, removals of content, account deletions or other service restrictions by internet companies for violations of their terms of service?</a><br>
-            <a href="#heading-131" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-136" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-138" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-140" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-142" style="text-decoration: underline">France</a>,
-            <a href="#heading-144" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-146" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-149" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-152" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-154" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-156" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-162" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-170" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-173" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-177" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-179" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-135" title="Jump to question">Have politicians, political parties or authorities in your country faced restrictions such as warning labels, removals of content, account deletions or other service restrictions by internet companies for violations of their terms of service?</a><br>
+            <a href="#heading-136" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-140" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-145" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-147" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-149" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-151" style="text-decoration: underline">France</a>,
+            <a href="#heading-153" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-155" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-158" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-161" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-163" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-165" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-171" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-179" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-182" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-186" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-188" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 3</td>
-        <td><a href="#heading-181" title="Jump to question">Are there “Must-Carry” requirements in your national law for a) Social Networks b) TV, Radio, Press or other Media to disperse official information from authorities or holders of public offices? </a><br>
-            <a href="#heading-182" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-195" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-197" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-200" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-204" style="text-decoration: underline">France</a>,
-            <a href="#heading-207" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-210" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-215" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-218" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-221" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-227" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-232" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-239" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-248" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-251" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-256" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-190" title="Jump to question">Are there “Must-Carry” requirements in your national law for a) Social Networks b) TV, Radio, Press or other Media to disperse official information from authorities or holders of public offices? </a><br>
+            <a href="#heading-191" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-196" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-209" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-211" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-214" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-218" style="text-decoration: underline">France</a>,
+            <a href="#heading-221" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-224" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-229" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-232" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-235" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-241" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-246" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-253" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-262" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-265" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-270" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 4</td>
-        <td><a href="#heading-264" title="Jump to question">Would the suspension of a public office holder’s social media account used for communicating both official information as well as private information in your country have to consider their right to freedom of expression?</a><br>
-            <a href="#heading-265" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-274" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-276" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-278" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-280" style="text-decoration: underline">France</a>,
-            <a href="#heading-282" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-284" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-286" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-288" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-290" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-292" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-295" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-300" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-303" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-306" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-309" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-278" title="Jump to question">Would the suspension of a public office holder’s social media account used for communicating both official information as well as private information in your country have to consider their right to freedom of expression?</a><br>
+            <a href="#heading-279" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-281" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-290" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-292" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-294" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-296" style="text-decoration: underline">France</a>,
+            <a href="#heading-298" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-300" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-302" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-304" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-306" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-308" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-311" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-316" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-319" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-322" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-325" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 5</td>
-        <td><a href="#heading-312" title="Jump to question">What is the legal situation in your country for private restrictions against public actors such as public office holders or political parties? Specifically a) Are social networks obliged to be more careful in restricting content from these actors (more so than with content from ordinary users), e.g. because of the public interest in their speech? b) Vice-versa: Are social networks obliged to treat these actors the same as ordinary users, so that a differentiation may amount to discrimination?</a><br>
-            <a href="#heading-313" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-317" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-319" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-321" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-324" style="text-decoration: underline">France</a>,
-            <a href="#heading-326" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-330" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-333" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-336" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-338" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-349" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-352" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-354" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-356" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-361" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-363" style="text-decoration: underline">Serbia</a>          
+        <td><a href="#heading-328" title="Jump to question">What is the legal situation in your country for private restrictions against public actors such as public office holders or political parties? Specifically a) Are social networks obliged to be more careful in restricting content from these actors (more so than with content from ordinary users), e.g. because of the public interest in their speech? b) Vice-versa: Are social networks obliged to treat these actors the same as ordinary users, so that a differentiation may amount to discrimination?</a><br>
+            <a href="#heading-329" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-334" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-338" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-340" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-342" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-345" style="text-decoration: underline">France</a>,
+            <a href="#heading-347" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-351" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-354" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-357" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-359" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-370" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-373" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-375" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-377" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-382" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-384" style="text-decoration: underline">Serbia</a>        
         </td>
     </tr>
     <tr>
         <td>Question 6</td>
-        <td><a href="#heading-365" title="Jump to question">Even if there are no explicit legal requirements, is the argumentation by platforms to leave content from political actors available even if it violates their terms of service plausible seen from your legal point of view?</a><br>
-            <a href="#heading-366" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-379" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-382" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-384" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-386" style="text-decoration: underline">France</a>,
-            <a href="#heading-388" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-390" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-392" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-395" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-397" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-399" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-403" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-405" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-407" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-409" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-411" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-386" title="Jump to question">Even if there are no explicit legal requirements, is the argumentation by platforms to leave content from political actors available even if it violates their terms of service plausible seen from your legal point of view?</a><br>
+            <a href="#heading-387" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-389" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-402" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-405" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-407" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-409" style="text-decoration: underline">France</a>,
+            <a href="#heading-411" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-413" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-415" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-418" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-420" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-422" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-426" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-428" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-430" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-432" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-434" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 7</td>
-        <td><a href="#heading-413" title="Jump to question">How to make better rules: Some have suggested the creation of "platform councils" (advisory councils or quasi-courts staffed by representative citizens or experts) to help platforms decide (like Facebook's Oversight Board). Do you know of such an example in your country? Has this been discussed in media?</a><br>
-            <a href="#heading-414" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-417" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-419" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-421" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-423" style="text-decoration: underline">France</a>,
-            <a href="#heading-425" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-427" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-429" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-431" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-433" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-435" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-438" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-441" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-444" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-446" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-449" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-436" title="Jump to question">How to make better rules: Some have suggested the creation of "platform councils" (advisory councils or quasi-courts staffed by representative citizens or experts) to help platforms decide (like Facebook's Oversight Board). Do you know of such an example in your country? Has this been discussed in media?</a><br>
+            <a href="#heading-437" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-439" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-442" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-444" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-446" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-448" style="text-decoration: underline">France</a>,
+            <a href="#heading-450" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-452" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-454" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-456" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-458" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-460" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-463" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-466" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-469" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-471" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-474" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 8</td>
-        <td><a href="#heading-451" title="Jump to question">Does your country have a public broadcasting council (an advisory council, often multi-stakeholder-based) for your public broadcaster?</a><br>
-            <a href="#heading-452" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-459" style="text-decoration: underline">Bosnia and Herzegovina</a>,
-            <a href="#heading-466" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-468" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-472" style="text-decoration: underline">France</a>,
-            <a href="#heading-475" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-479" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-481" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-483" style="text-decoration: underline">Iceland</a>,
-            <a href="#heading-485" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-508" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-513" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-538" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-540" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-545" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-548" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-476" title="Jump to question">Does your country have a public broadcasting council (an advisory council, often multi-stakeholder-based) for your public broadcaster?</a><br>
+            <a href="#heading-477" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-481" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-488" style="text-decoration: underline">Bosnia and Herzegovina</a>,
+            <a href="#heading-495" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-497" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-501" style="text-decoration: underline">France</a>,
+            <a href="#heading-504" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-508" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-510" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-512" style="text-decoration: underline">Iceland</a>,
+            <a href="#heading-514" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-537" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-542" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-567" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-569" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-574" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-577" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
     <tr>
         <td>Question 9</td>
-        <td><a href="#heading-554" title="Jump to question">Is there any other information you can share that may help us understand how a private internet company restricting a holder of a public office (such as in the case of Trump) would play out in your country?</a><br>
-            <a href="#heading-555" style="text-decoration: underline">Belgium</a>,
-            <a href="#heading-561" style="text-decoration: underline">Cyprus</a>,
-            <a href="#heading-563" style="text-decoration: underline">Finland</a>,
-            <a href="#heading-565" style="text-decoration: underline">Germany</a>,
-            <a href="#heading-567" style="text-decoration: underline">Greece</a>,
-            <a href="#heading-569" style="text-decoration: underline">Hungary</a>,
-            <a href="#heading-571" style="text-decoration: underline">Ireland</a>,
-            <a href="#heading-573" style="text-decoration: underline">Italy</a>,
-            <a href="#heading-576" style="text-decoration: underline">Latvia</a>,
-            <a href="#heading-578" style="text-decoration: underline">Lithuania</a>,
-            <a href="#heading-580" style="text-decoration: underline">Norway</a>,
-            <a href="#heading-582" style="text-decoration: underline">Portugal</a>,
-            <a href="#heading-584" style="text-decoration: underline">Serbia</a>
+        <td><a href="#heading-583" title="Jump to question">Is there any other information you can share that may help us understand how a private internet company restricting a holder of a public office (such as in the case of Trump) would play out in your country?</a><br>
+            <a href="#heading-584" style="text-decoration: underline">Austria</a>,
+            <a href="#heading-586" style="text-decoration: underline">Belgium</a>,
+            <a href="#heading-592" style="text-decoration: underline">Cyprus</a>,
+            <a href="#heading-594" style="text-decoration: underline">Finland</a>,
+            <a href="#heading-596" style="text-decoration: underline">Germany</a>,
+            <a href="#heading-598" style="text-decoration: underline">Greece</a>,
+            <a href="#heading-600" style="text-decoration: underline">Hungary</a>,
+            <a href="#heading-602" style="text-decoration: underline">Ireland</a>,
+            <a href="#heading-604" style="text-decoration: underline">Italy</a>,
+            <a href="#heading-607" style="text-decoration: underline">Latvia</a>,
+            <a href="#heading-609" style="text-decoration: underline">Lithuania</a>,
+            <a href="#heading-611" style="text-decoration: underline">Norway</a>,
+            <a href="#heading-613" style="text-decoration: underline">Portugal</a>,
+            <a href="#heading-615" style="text-decoration: underline">Serbia</a>
         </td>
     </tr>
 </table>
 :--- KEYSTATEMENT ---:
 <h3>Contributors by country:</h3>
-<p style="font-weight: 300;"><strong>Belgium</strong><br>
+<p style="font-weight: 300;">
+<strong>Austria</strong><br>
+<a href="mailto:f.rachinger@leibniz-hbi.de">Felicitas Rachinger</a>, 
+Gregor Fischer<br><br><strong>Belgium</strong><br>
 <a href="mailto:liesa.keunen@ugent.be">Liesa Keunen </a>, 
 <a href="mailto:judith.vermeulen@ugent.be">Judith Vermeulen </a>, 
 <a href="mailto:eva.lievens@ugent.be">Eva Lievens </a><br><br>
@@ -247,6 +259,16 @@ image: "theme/images/bg_chapter.png"
 title: "Question 1"
 subtitle: "How did your countries' politicians, media and public opinion react to the suspensions and deletions of Trumps accounts from social networks? Please include emblematic quotes if available."
 :---------------------------------------------------------:
+
+## Austria
+
+Karoline Edtstadler, Austrian minister for the EU and Constitution (ÖVP) saw the twitter ban “very, very critically” (“sehr, sehr kritisch”). Even though she considered it “despicable how he \[Trump\] incited to violence and hatred” (“abscheulich, wie er zu Gewalt und Hass aufgestachelt hat”), she was concerned that social media platforms regulate who is (not) allowed to express an opinion.[: REFERENCE | ref311 | :]
+
+Michel Reimon, member of the Austrian parliament (Grüne) considered that the ban had happened “quite rightly” (“völlig zu Recht”), but at the same time expressed concerns that such action by platforms is not subject to “any control by the rule of law” (“keiner rechtsstaatlichen Kontrolle unterliegend”) in the US.[: REFERENCE | ref302 | :]
+
+Harald Walser, former member of the Austrian parliament (Grüne) reminded that “these companies have a de-facto monopoly and their customers are thus at their mercy” (“diese Konzerne \[haben\] de facto ein Monopol \[…\] und ihre Kunden \[sind\] ihnen somit ausgeliefert \[…\]”).[: REFERENCE | ref303 | :]
+
+Thomas Lohninger, executive director of the digital rights NGO epicenter.works considered it “ significant that Twitter and other Internet companies only took action against Trump when it was clear that there would be a Democratic majority in the future U.S. administration” (“bezeichnend, dass Twitter und andere Internetfirmen erst gegen Trump tätig wurden, als es klar war, dass es eine Mehrheit der Demokraten in der künftigen US-Regierung geben wird“). He pointed out that it is problematic  “when private companies decide on the limits of freedom of expression, especially when these companies have a quasi-monopoly in public communication” (“wenn private Unternehmen über die Grenzen der Meinungsfreiheit entscheiden, gerade wenn diese Unternehmen fast ein Monopol in der öffentlichen Kommunikation haben”).[: REFERENCE | ref304| :]
 
 ## Belgium (relating to Flanders)
 
@@ -438,6 +460,14 @@ title: "Question 2"
 subtitle: "Have politicians, political parties or authorities in your country faced restrictions such as warning labels, removals of content, account deletions or other service restrictions by internet companies for violations of their terms of service? "
 :---------------------------------------------------------:
 
+## Austria
+
+Just recently, YouTube deleted a video of a speech of Herbert Kickl, Member of the Austrian Parliament (FPÖ), which was originally posted on the YouTube channel of the FPÖ. In his speech, Kickl discussed different matters in regards to the Covid-19 crisis, especially related to vaccines. YouTube found the video contained fake news and not only deleted the video, but also temporarily blocked the YouTube channel of the FPÖ.[: REFERENCE | ref305 | :] (See also below, question 5)
+
+Last October, Facebook deleted a video of a speech of politician Michael Schnedlitz (also FPÖ). The video showed him discussing the situation of refugees in Lesvos in a way which Facebook classified as ‘hate speech’.[: REFERENCE | ref306 | :]
+
+There are several other examples where content published by Austrian political actors has been removed by social media platforms. In 2018, the right wing extremist Identitarian Movement (“Identitäre Bewegung”) has been banned from Facebook and Instagram. In 2020, the Identitarian Movement as well as some of its members, most prominently its leader, Martin Sellner, have been banned from social media platforms Twitter and YouTube as their content was classified as hate speech.[: REFERENCE | ref306 | :] Other than that, there are no cases where a political party or a member of such party has been banned entirely. 
+
 ## Belgium
 
 Yes, the Flemish nationalist, far-right party *Vlaams Belang* as well as some of its members have experienced ## removals of content** as well as **account suspensions imposed by Facebook.
@@ -549,6 +579,16 @@ image: "theme/images/bg_chapter.png"
 title: "Question 3"
 subtitle: "Are there “Must-Carry” requirements in your national law for a) Social Networks b) TV, Radio, Press or other Media to disperse official information from authorities or holders of public offices?"
 :---------------------------------------------------------:
+
+## Austria
+
+a.) No. 
+
+b.) § 20 (1) öAMD-G requires cable network providers to disperse the program of the ORF (Austrian public service broadcaster), if this can be done without disproportionate effort. §§ 4b (2) and 4c (2) öORF-G include further provisions on how the dispersion has to be realised.
+
+Cable network providers (under certain conditions) are also required to disperse programs which make a special contribution to the diversity of opinion (§ 20 (2) öAMD-G).[: REFERENCE | ref308 | :]
+
+There have been propositions for a “must-be-found” provision, as an extension to the current “must-carry” provisions. The ORF as the public broadcaster as well as the “Verband österreichischer Privatsender (VÖP)” (Association of Austrian private broadcasters) both support the idea that content of public interest should have to be found in a privileged manner in all relevant networks, including media platforms.[: REFERENCE | ref309 | :]
 
 ## Belgium
 
@@ -728,6 +768,10 @@ title: "Question 4"
 subtitle: "Would the suspension of a public office holder’s social media account used for communicating both official information as well as private information in your country have to consider their right to freedom of expression? "
 :---------------------------------------------------------:
 
+## Austria
+
+Not directly. The only way this could come into play would be via the concept of Drittwirkung (“mittelbare Drittwirkung der Grundrechte”), meaning that social media platforms would have to consider freedom of expression when applying their code of conduct. However, there have not (yet) been any judicial decisions applying this concept in the context of social media platforms and their code of conduct in Austria. 
+
 ## Belgium
 
 The Flemish Code of Ethics for Staff Members of the Flemish government requires staff members to perform their function in an “objective” and neutral manner.[: REFERENCE | ref185 | :] Objectivity means treating colleagues, citizens and suppliers in the same way in equal circumstances. This objectivity entails a number of concrete rules of conduct:
@@ -827,6 +871,18 @@ image: "theme/images/bg_chapter.png"
 title: "Question 5"
 subtitle: "What is the legal situation in your country for private restrictions against public actors such as public office holders or political parties? Specifically a) Are social networks obliged to be more careful in restricting content from these actors (more so than with content from ordinary users), e.g. because of the public interest in their speech? b) Vice-versa: Are social networks obliged to treat these actors the same as ordinary users, so that a differentiation may amount to discrimination?"
 :---------------------------------------------------------:
+
+## Austria
+
+Until now, there are no explicit rules on differential treatment of public actors vis-a-vis other users. One Austrian political party, the Freedom Party (FPÖ), however, seems to advocate the need for special protection of political actors. A YouTube video of an official speech by Herbert Kickl (FPÖ) in the Austrian Parliament was deleted by the platform due to its infringement of YouTube’s COVID-disinformation policy, and the party’s channel was blocked temporarily. [This led to parliamentary questions from Kickl’s party colleagues to the EU Commission.](https://www.europarl.europa.eu/doceo/document/E-9-2021-000333_EN.html) Two FPÖ-MEPs asked the Commission: 
+
+“A companies will thus be able to set filters in future so that popular parties can only make themselves heard if their politics fit in with the company’s own convictions. \[sic!/whole sentence\]
+
+1. Is the Commission monitoring this development of censorship by
+private companies?
+2. Will the Commission propose legislation to prevent companies which are used by the population at large from restricting political parties’ freedom of expression?”
+
+Question 2 clearly differentiates between political parties and users. The party also introduced a corresponding [resolution proposal in the Austrian Parliament.](https://www.parlament.gv.at/PAKT/VHG/XXVII/A/A_01257/imfname_879719.pdf) It remains to be seen whether the party’s proposal is going to catch on with the coalition government which it is not part of. Until now, there are no further statements from parties and/or public administrators in this regard.
 
 ## Belgium
 
@@ -941,6 +997,10 @@ title: "Question 6"
 subtitle: "Even if there are no explicit legal requirements, is the argumentation by platforms to leave content from political actors available even if it violates their terms of service plausible seen from your legal point of view? "
 :---------------------------------------------------------:
 
+## Austria
+
+There are, until now, no cases that we are aware of in which political actors’ expression and platforms’ terms clashed in this way in Austria that led to non-deletion. As well, we have not observed official communication from social media platforms that would provide an argumentation on country-specific cases in this regard.
+
 ## Belgium
 
 **ECtHR case-law**
@@ -1041,6 +1101,10 @@ title: "Question 7"
 subtitle: "How to make better rules: Some have suggested the creation of “platform councils” (advisory councils or quasi courts staffed by representative citizens or experts) to help platforms decide (like Facebook's Oversight Board). Do you know of such an example in your country? Has this been discussed in media?"
 :---------------------------------------------------------:
 
+## Austria 
+
+The only instance in which Austrian media reported on platform councils that we are aware of is when Bernhard Pörksen took part in the [2018 media enquete.](https://www.derstandard.at/story/2000081238331/fpoe-attackenvom-orf-habe-ich-nur-ein-paar-laue-tweets)[: REFERENCE | ref310 | :]
+
 ## Belgium
 
 The decision to suspend the Facebook account of Trump has recently been referred to Facebook’s Oversight Board. The Board, consisting of 20 members, will give a permanent decision on whether Trump may or may not return to the platform. Flemish media (HLN, Knack, De Tijd) reported on the creation and mandate of Facebook’s Oversight Board.[: REFERENCE | ref246 | :]
@@ -1120,6 +1184,14 @@ image: "theme/images/bg_chapter.png"
 title: "Question 8"
 subtitle: "Does your country have a public broadcasting council (an advisory council, often multi-stakeholder-based) for your public broadcaster? "
 :---------------------------------------------------------:
+
+## Austria
+
+Austria’s public broadcaster (ORF) is bound by a dedicated law (ORF Act/ORF-Gesetz). Herein, two entities perform the tasks of a broadcasting council together: the ORF Foundation Board (“Stiftungsrat”) and the ORF Viewers' and Listeners' Council (“Publikumsrat”). 
+
+The Foundation Board has far-reaching competences with regards to TV and radio broadcasting of the public broadcaster, including the monitoring of the executive board’s performance, the authorisation of long-term plans on content provided by the public broadcaster, financial decisions and oversight, personnel-related decisions, the authorisation of collective bargaining agreements for public broadcasting staff, quality assurance, advertising regulations, etc. (see §21 ORF Act). 
+
+The Viewers' and Listeners' Council shall represent the interests of the Austrian public. It consists, inter alia, of persons nominated by the chamber of commerce, the catholic and protestant churches, and parties’ educational institutions (“Parteiakademien”). This council mainly serves as an advisory institution that provides recommendations to the Foundation Board, e.g. on content to be produced by the public broadcaster, quality assurance schemes, or the provision of content specifically tailored to the needs of persons with disabilities (“Angebot von Sendungen für gehörlose und gehörbehinderte Menschen”). Some of the Board’s decisions need confirmation of the Council, e.g. regarding broadcasting fees. The Council also nominates members of the Foundation Board, hence influencing the decision-making of the Board content-wise (with its recommendations) as well as personnel-wise (with the appointments of members). (see §§28ff ORF Act).
 
 ## Belgium
 
@@ -1330,6 +1402,10 @@ image: "theme/images/bg_chapter.png"
 title: "Question 9"
 subtitle: "Is there any other information you can share that may help us understand how a private internet company restricting a holder of a public office (such as in the case of Trump) would play out in your country? "
 :---------------------------------------------------------:
+
+## Austria
+
+In case of content deletion by Communication Platforms , the newly enacted Austrian Communication Platforms Act (KoPl-G - exempt: Audiovisual Content Platforms, hence not applicable in the above Kickl/FPÖ-YouTube-conflict mentioned above) provides for internal redress mechanisms for all users. Platforms must act in accordance with the KoPl-G from 31 March 2021 (§14 KoPl-G). In parallel, civil law proceedings could be initiated by the person whose content was deleted.
 
 ## Belgium
 
