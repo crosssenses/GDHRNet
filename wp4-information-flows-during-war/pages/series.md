@@ -1,12 +1,12 @@
 # GDHRNet Working Paper Series
 
-The Working Papers of the [Global Digital Human Rights Network](https://gdhrnet.eu/) – edited by Mart Susi and Matthias C. Kettemann – addresses both idealistic as well as practice-oriented dimensions of the field. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series attempts to reverse this pattern and with the Network’s capability looks to to break or at least question the strengthening grip of the online companies as powerful actors in defining the image of human rights in the digital landscape.
+The Working Papers of the [Global Digital Human Rights Network](https://gdhrnet.eu/) – edited by Mart Susi and Matthias C. Kettemann – addresses both idealistic as well as practice-oriented dimensions of the field. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series questions this approach and, through empirical studies and dogmatic analysis, provide best practice models for the protection of human rights in times of powerful private actors and digital challenges to individual freedoms and social cohesion.
 :------------- KEYSTATEMENT ------------: 
 ### Publisher
 
-Tallinn University 
+Leibniz Institut für Medienforschung | Hans Bredow Institute (HBI) 
 
-<span class="light">Narva mnt 25<br>10120 Tallinn, Estonia<br><br>Tel. (+49 40) 45 02 17-0<br>www.tlu.ee</span>
+<span class="light">Rothenbaumchaussee 36<br>20148 Hamburg, Germany<br><br>Tel. (+49 40) 45 02 17-0<br>info@leibniz-hbi.de<br>www.leibniz-hbi.de</span>
 :---------------------------------------:
 
 The publication is based upon work from COST Action GDHRNet – CA19143, supported by [COST (European Cooperation in Science and Technology)](www.cost.eu). Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
