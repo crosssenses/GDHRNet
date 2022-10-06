@@ -9,7 +9,7 @@ Leibniz Institut für Medienforschung | Hans Bredow Institute (HBI)
 <span class="light">Rothenbaumchaussee 36<br>20148 Hamburg, Germany<br><br>Tel. (+49 40) 45 02 17-0<br>info@leibniz-hbi.de<br>www.leibniz-hbi.de</span>
 :---------------------------------------:
 
-The publication is based upon work from COST Action GDHRNet – CA19143, supported by [COST (European Cooperation in Science and Technology)](www.cost.eu). Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by [COST (European Cooperation in Science and Technology)](https://www.cost.eu). Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
 
 ## Global Digital Human Rights Network
 
@@ -24,7 +24,7 @@ Action Vice Chair<br><span class="light"><a href="mailto:vygante.milasiute@tf.vu
 
 Science Communications Manager<br><span class="light"><a href="mailto:laurenakalaja@hotmail.com">Laurena KALAJA</a></span>
   
-STSM Coordinator<br><span class="light"><a href="mailto:jukka.viljanen@tuni.fi">Professor Dr Jukka VILJANEN</a></span> 
+Grant Awarding Coordinator<br><span class="light"><a href="mailto:jukka.viljanen@tuni.fi">Professor Dr Jukka VILJANEN</a></span> 
   
 WG 1 - Fundamental and vertical dimension of human rights online <br><span class="light"><a href="mailto:tiina.pajuste@tlu.ee">Dr Tiina PAJUSTE, WG leader</a></span>
   

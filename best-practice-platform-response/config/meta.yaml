@@ -1,0 +1,110 @@
+# PUBLICATION META INFO
+# —————————————————————
+
+title:                  "How Platforms Respond to Human Rights Conflicts Online"
+subtitle:               "Best Practices in Weighing Rights and Obligations in Hybrid Online Orders"
+authors:                "Matthias C. Kettemann (Ed.)"
+year:                   2022
+date_publication:       October 2022
+# date_submission:
+# date_last_updated:
+
+keywords:               Platform response, hybrid online orders, human rights, best practices, rights and obligations, hate speech, elections, platform rules
+
+abstract:               "Platforms have power. But this power is not unchecked. Governments have an important role to play in protecting their citizens’ rights vis-à-vis third parties and ensuring a communication order in which rights are not violated. This collection which unites studies by researchers within the Global Digital Human Rights Networks on issues connected to the overarching question of how platforms deal with human rights and their human rights obligations.\n
+
+The overarching concern whether human rights can be safeguarded online as efficiently as offline is reflected in the topics of platforms power, hate speech and discrimination, limitations of private governance mechanisms, the governance of election-related information and the institutional responses to making private platform rules better. The broader philosophical assertion of the sameness of human rights online and offline is made manifest in specific issues related to the transposeability of offline rules and principles to the online environment."
+
+# <h3>Authors</h3>\n
+# Wolfgang Benedek, Alex Fischer, Gregor Fischer-Lessiak, Vivienne Gold, Matthias C. Kettemann, Birgit Schippers, Mart Susi, Jukka Viljanen"
+
+cite_as:               "Matthias C. Kettemann (ed.), How Platforms Respond to Human Rights Conflicts Online. Best Practices in Weighing Rights and Obligations in Hybrid Online Orders (Hamburg: Verlag Hans-Bredow-Institut, 2022)"
+
+pdf_url:                https://graphite.page/GDHRNet-platform-response/assets/documents/GDHRNet-BestPractice-EditedVolume.pdf
+# doi:                    10.21241/ssoar.78580
+# isbn:                   978-989-746-128-6
+contact_email:          m.kettemann@leibniz-hbi.de
+
+short_url:              https://graphite.page/GDHRNet-platform-response
+social_image_url:       https://graphite.page/GDHRNet-platform-response/assets/images/social.png
+lang:                   en
+
+
+# PUBLICATION STYLE
+# —————————————————————
+styles:                 theme/styles/GDHRNet.css
+background_url:         theme/images/bg.png
+
+
+
+# DISCLAIMER
+# —————————————————————
+# data_usage:
+# disclaimer:
+# terms_of_use:
+licence:                CC BY SA 4.0
+
+# Author info is shown in footer bar and on the right, if no logo is provided.
+author_info:            A Global Digital Human Rights Network (GDHRNet) study
+logo_url:               theme/images/Logo_GDHRNet_horizontal.svg
+
+
+# SETTINGS
+# —————————————————————
+
+author_info_sticky:     true
+no_journal:             false
+matomo_tracking:        true
+matomo_url:             "https://piwik.wunderjewel.de/"
+matomo_siteId:          "4"
+load_confetti:          false
+
+
+# PUBLISHER INFO
+# thanks for mentioning graphite
+# —————————————————————
+
+brand:                  graphite – Enhanced publications for a digital environment
+brand_url:              https://www.impactdistillery.com/graphite
+brand_logo:             theme/images/graphite.svg
+
+# Infos in expandable header
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet), edited by Matthias C. Kettemann.\n\n
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
+
+further_publications:
+   - label: "#1: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+   - label: "#2: Covid-19 “Vaccine Passport”"
+     url: https://graphite.page/GDHRNet-WP2
+   - label: "#3: Can Platforms Cancel Politicians?"
+     url: https://graphite.page/GDHRNet-WP3
+   - label: "#4: Governing Information Flows During War?"
+     url: https://graphite.page/GDHRNet-WP4
+
+further_links:
+   - label: Global Digital Human Rights Network
+     url: https://gdhrnet.eu
+   - label: COST Action GDHRNet – CA19143
+     url: https://www.cost.eu/actions/CA19143
+
+
+# TABS
+# —————————————————————
+
+:---------------------------------------------------:
+tabs:
+  - title: "Executice summary"
+    ref: "/"
+    slug: index
+    include_abstract: true
+    md_container: article
+  - title: "Best Practices"
+    slug: summary
+    md_container: section
+  - title: "Contributors"
+    slug: contributors
+    md_container: section
+  - title: "About the study"
+    slug: series
+    md_container: section

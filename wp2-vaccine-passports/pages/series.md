@@ -12,7 +12,7 @@ Tel. (+49 40) 45 02 17-0<br>
 www.tlu.ee</span>
 :---------------------------------------:
 
-The publication is based upon work from COST Action GDHRNet – CA19143, supported by [COST (European Cooperation in Science and Technology)](www.cost.eu). Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by [COST (European Cooperation in Science and Technology)](https://www.cost.eu). Our Actions help connect research initiatives across Europe and enable scientists to grow their ideas by sharing them with their peers. This boosts their research, career and innovation.
 
 ## Global Digital Human Rights Network
 
