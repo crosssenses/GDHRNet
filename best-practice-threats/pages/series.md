@@ -4,11 +4,11 @@ The publication is based upon work from COST Action GDHRNet – CA19143, support
 :------------- KEYSTATEMENT ------------: 
 ### Publisher
 
-Leibniz Institut für Medienforschung | Hans Bredow Institute (HBI) 
-
-<span class="light">Rothenbaumchaussee 36<br>20148 Hamburg, Germany<br><br>Tel. (+49 40) 45 02 17-0<br>info@leibniz-hbi.de<br>www.leibniz-hbi.de</span>
+Tallinn University 
+<span class="light">Narva mnt 25
+10120 Tallinn, Estonia
+www.tlu.ee</span>
 :---------------------------------------:
-
 
 
 ## Global Digital Human Rights Network

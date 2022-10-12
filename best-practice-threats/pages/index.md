@@ -25,6 +25,7 @@ Each report section concludes with recommendations to different stakeholder for 
 
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
+authors: Vygantė Milašiūtė, Violeta Beširević, Oscar R. Puccinelli, Cristina Elena Popa Tache, Barbora Baďurová
 title: Overarching Issues in the Digital Realm
 :---------------------------------------------------------:
 
@@ -48,7 +49,7 @@ The current tendency to protect human rights in the digital sphere is reflected 
 
 However, while a state faces constitutional responsibility for human rights violations, social platforms in most jurisdictions still evade this responsibility. This is because the law generally regards the state as the primary, if not sole, bearer of duties correlative with rights.[: REFERENCE | ref8 |:] Rights do not regulate the relations between private parties whose autonomy should stay free from the compulsory regime created by the constitutions. In other words, constitutional rights apply only in relations between the government and an individual (vertically) but not between private parties (horizontally). Although the constitution generally does not sanction private deprivations of constitutional rights in most jurisdictions, notable exceptions do exist. The horizontal effect of human rights, either direct or indirect, has been recognized in several jurisdictions, most notably Ireland, South Africa, Germany, Canada, the European Union, and several Latin American states. The emerging trend, although still sporadic, is its application in digital sphere.
 
-### Developments in Relation to the threat
+### Developments in relation to the threat
 
 The European Union, a transnational political entity of a constitutional nature, is at the forefront of addressing the responsibility of social platforms for human rights violations in the digital surrounding. First, the EU will soon adopt the Digital Services Package, composed of the Digital Market Act and the Digital Service Act, which should be operable across the EU from 1 January 2024 the lattes. The Digital Service Act is essential as it provides measures for securing users’ human rights online, including enhanced supervision and enforcement by the European Commission when it comes to the responsibility of very large online platforms.[: REFERENCE | ref9 |:] Second, in recent years the Court of Justice of the European Union (CJEU) has taken an active approach to the human rights challenges arising from digital technologies. Several cases, including *Google Spain***_[: REFERENCE | ref10 |:]_**, *Scarlet***_[: REFERENCE | ref11 |:]_***, Netlog***_[: REFERENCE | ref12 |:]_**, *Digital Rights Ireland***_[: REFERENCE | ref13 |:]_**, and S*chrems* *I***_[: REFERENCE | ref14 |:]_**, testify that the CJEU is not ready to tolerate the rise of social platforms’ power at the expense of users’ human rights.[: REFERENCE | ref15 |:] A decisive step for the CJEU’s reactive approach has been the legally binding nature of the EU Charter of Fundamental Rights, confirmed in the Lisbon Treaty, and its inclusion in the EU constitutional framework.[: REFERENCE | ref16 |:]
 
@@ -56,7 +57,7 @@ Regarding national jurisdictions, Germany took an especially proactive approach,
 
 In sharp contrast to this view stands a firm understanding of the US Supreme Court that constitutional rights are shields only against the state. Under its state action doctrine, the US Constitution applies only to governmental conduct and does not extend to the behavior of private parties. Those who benefit the most from this approach are online platforms. Based on the state action doctrine, the US courts have repeatedly rejected free-speech-related claims against social platforms.[: REFERENCE | ref20 |:]
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 Individual rights and state duties are not exclusively tied either normatively or historically. John Locke’s rights theory, which inspired the American Declaration of Independence, never saw rights as creating duties only for government, particularly concerning the negative duty not to harm.[: REFERENCE | ref21 |:] The fact that social platforms are corporate entities and are in a position to cause enormous harm to human rights supports the need to recognize them as human rights duty-bearers. Since social platforms enjoy great power and no constitutional responsibility, it is high time to challenge the standard public/private division that still dominates constitutional law across the globe.
 
@@ -106,31 +107,30 @@ In Canada, Ontario Human Rights Commission takes an expansive and flexible appro
 
  
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 #### Recommendations for policy makers
 
 Existing policies can be improved in a number of ways.
 
-First, in the context of the right to health the necessary health care services should provide for those suffering from Internet addiction. Updating the list of diagnoses to reflect the current stage of mental health research into PUI may be needed.
+- First, in the context of the right to health the necessary health care services should provide for those suffering from Internet addiction. Updating the list of diagnoses to reflect the current stage of mental health research into PUI may be needed.
 
-Second, targeted policies should be developed to address the needs of specific categories of vulnerable individuals. One such category is children. Other categories are to be defined relying on mental health research into various types of activities that may lead to PUI.
+- Second, targeted policies should be developed to address the needs of specific categories of vulnerable individuals. One such category is children. Other categories are to be defined relying on mental health research into various types of activities that may lead to PUI.
 
-Third, the potential of anti-discrimination law provisions prohibiting discrimination on the ground of disability or on the ground of PUI more specifically should be explored.
+- Third, the potential of anti-discrimination law provisions prohibiting discrimination on the ground of disability or on the ground of PUI more specifically should be explored.
 
-Fourth, consumer law avenue is to be used to enhance protection against products containing potentially addictive features (marking such products accordingly is one option).
+- Fourth, consumer law avenue is to be used to enhance protection against products containing potentially addictive features (marking such products accordingly is one option).
 
-Fifth, the question of whether the right to disconnect should be limited to the context of working conditions needs to be explored. Reliance on this right to ensure online and offline time balance in the process of education for children is one possible line of inquiry.
+- Fifth, the question of whether the right to disconnect should be limited to the context of working conditions needs to be explored. Reliance on this right to ensure online and offline time balance in the process of education for children is one possible line of inquiry.
 
 #### Recommendation for business actors
 
 To minimise the threat of Internet addiction, business actors should opt to move towards more responsible technology and to either refrain from technological solutions that capture the user’s attention or to mark the products containing such features accordingly.
-
  
 
 ## The culture of cancelation and social engineering[: REFERENCE | ref28 |:]
 
-### DESCRIPTION OF THE THREAT
+### Description of the threat
 
 The concept "culture of cancellation", “cancel culture” or “call out culture” refers to the act of socially “canceling” a person, a form of involuntary ostracism caused by others’ actions, aimed to invalidate the victims’ opinions and virtually their existence in all areas of society. Even though those actions could or not take place in the cyberspace, specialized literature usually refers to this phenomenon within the framework of social networks (such as posting – true of false – comments about socially reprehensible conduct, such as child abuse or gender violence). Obviously, cancel culture is a major problem when it is illegitimately used, and in certain circumstances can affect the foundations of democracy, for example spreading false accusations directed against other candidates in an election process.
 
@@ -144,7 +144,7 @@ Although social engineering techniques have been used since long ago in other fi
 
  
 
-### DEVELOPMENTS IN RELATION TO IT
+### Developments in relation to IT
 
 Social engineering is today a key factor in the electoral political sphere and is used both to obtain private information about a rival candidate or his inner circle that can be used – and even distorted – against him or her, as well as to identify those users of social networks who could be influenced to change their vote in favour of who is paying for the social engineering work.
 
@@ -156,7 +156,7 @@ The information can be obtained by certain techniques such as flattering the vic
 
 Once the information is obtained by social engineering, it could be used as described above, against the victim of the cybercrime, who can be, for example, a politician who is running for elective office, or a voter who may be influenced based on the personal characteristics that were obtained through the social engineering attack.
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 Minimizing the risks of social engineering attacks, both to counter an improper cancellation and to prevent the use of personal information to illegally influence a person to vote for a particular candidate, requires concerted action by civil society, governments and technology companies.
 
@@ -172,7 +172,7 @@ If a person discovers that his personal and or professional data has disappeared
 
 ## Threats connected to international investments[: REFERENCE | ref30 |:]
 
-### DESCRIPTION OF THE THREAT
+### Description of the threat
 
 In international investment, the number of threats to human rights is increasing. Their diversity is directly proportional to the type of activities that could make certain human rights vulnerable. We have seen how the assertion of a human right actually represents a need for protection against threats from individuals, groups or even public authorities. It is important to regulate specific issues through instruments of international law. And in the case of international investments, as in other situations, human rights are put at risk when there is no law enforcement mechanism nor a functioning judicial mechanism to defend them. There is not enough regulation of treatment standards that have a direct impact on human rights. This observation is based on cases where the worst threats to citizens’ human rights come from states. Thus, unequivocal regulation through investment treaties would be very useful.
 
@@ -180,7 +180,7 @@ Considering the diversity, expansion and evolution of the field of international
 
 A ground-breaking agreement signed in June 2020 was the Digital Economy Partnership Agreement (DEPA). It reaffirms "the importance of corporate social responsibility, cultural identity and diversity, environmental protection and preservation, gender equality, indigenous rights, labour rights, inclusive trade, sustainable development and traditional knowledge". We are therefore at the intersection of human rights and technological development. In the same vein, problems arise where human rights and freedoms may conflict with the acceptance and use of digitisation. Similarly, cultural or traditional differences may require more attention from digital service providers.  The danger of domination of national digital industries needs to be acknowledged, as issues of national security may overlap here, and the limits of national security and safety are set by domestic regulation and may relate to certain human rights. 
 
-### DEVELOPMENTS – DO PERFORMANCE REQUIREMENTS HAVE THE POWER TO INCORPORATE SUFFICIENT HUMAN RIGHTS PROTECTION?
+### Developments – do performance requirements have the power to incorporate sufficient human rights protection?
 
 The problem concerns the way in which the standards of treatment and legal protection of international investments are or are not well defined, so as to ensure the full respect of human rights.
 
@@ -198,7 +198,7 @@ Some BIT models have been prepared by different states, most models being establ
 
 Investment arbitrations in which courts have found violations of this standard are few and far between, and most of the known cases have been based on NAFTA. Therefore, the emergence of a new, different standard would not be far behind the already existing one for which the addition can be made.
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 Two solutions stand out: a) creation of a new treatment standard; or b) the explicit expansion of the standard regarding the performance requirements by including in the international instruments universal conditions of respect for human rights in relation to any activity related to communications or new technologies.
 
@@ -228,7 +228,7 @@ One can observe efforts of various international and national organisations addr
 
 The problem of human rights in the digital age in general has been reflected on by many academics[: REFERENCE | ref45 |:] in a multitude of research institutions.[: REFERENCE | ref46 |:] Regarding cyber ethics education we can find texts reflecting for instance on the cases of Japan and USA.[: REFERENCE | ref47 |:] Digital ethics has been a research topic for experts from different countries in Europe.[: REFERENCE | ref48 |:] There are also several ongoing research projects in the area. For example, an Erasmus+ project Ethics4EU focused on European Values for Ethics in Digital Technology contains proposals for education.[: REFERENCE | ref49 |:] And the Erasmus+ project Digital, Responsible Citizenship in a Connected World points out some problems of the digital environment and tries to educate the children in particular.[: REFERENCE | ref50 |:] However, the problem of ethics education and individual self-regulation is addressed in a majority of the above-mentioned articles and project only implicitly or indirectly. It is worth mentioning that the Erasmus+ project PLATO’S EU[: REFERENCE | ref51 |:] is focusing on the intersection between philosophy and the digital environment, and it will also deal with digital ethics and create teaching materials.
 
-### MinimiZation of the threat - recommendations
+### Minimization of the threat - recommendations
 
 "Human rights are better thought of as both moral rights and legal rights".[: REFERENCE | ref52 |:] Ideally, we should support and develop also other motivations for desirable actions not just the motivation not to get caught because of a violation of law.
 
@@ -244,6 +244,7 @@ It would be interesting and important to also focus on adult education, however 
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
 title: Threats Connected to Technology
+authors: Saulius Stonkus, Tiina Pajuste, Igor Serotila, Konstantinos Kouroupis, Maria Biliri, Skirgailė Žalimienė
 :---------------------------------------------------------:
 
 ## Introduction[: REFERENCE | ref55 |:]
@@ -254,7 +255,7 @@ AI can also be embedded in hardware devices, such as drones, which are considere
 
 ## Artificial intelligence and risks for online privacy and security[: REFERENCE | ref58 |:]
 
-### DESCRIPTION OF THE THREAT
+### Description of the threat
 
 Since we are living in the digital age, AI systems and tools are omnipresent in many areas of private and public life. In healthcare, robotic surgery, cardiac ultrasound tools, clinical diagnosis based on machine-learning systems are some of the elements which demonstrate the rise of AI technology. The use of machine learning models to search medical data and uncover insights to help improve health outcomes and patient experiences is occurring almost on a daily basis. In e-commerce, chatbots are used by a large number of companies providing a big variety of services, as it has been already exposed. Smart cities are also a representative example of AI technology.
 
@@ -267,7 +268,7 @@ The European approach to artificial intelligence (AI) will help build a resilien
 However, there are many legal and ethical concerns regarding AI, such as: can AI substitute or replace human factor in public and private life? Is AI always trustworthy and can lead to safe conclusions? What is the nature of AI and in which extent it could be used?
 
 
-### DEVELOPMENTS IN RELATION TO the threat
+### Developtments in relation to the threat
 
 Providing a legal framework for technological tools is not an easy process. It hides many risks since technology always precedes law, therefore this work often corresponds mostly to minimize potential dangers and protect fundamental rights and freedoms. AI is actually a young discipline of about sixty years, which brings together sciences, theories and techniques (including mathematical logic, statistics, probabilities, computational neurobiology and computer science) and whose goal is to achieve the imitation by a machine of the cognitive abilities of a human being.
 
@@ -279,7 +280,7 @@ Facial recognition is a good example of one area where the competing interests o
 
 The EDPS expressed some uncertainty regarding how to use facial recognition technology in a way that is compliant with the GDPR’s requirements on data minimisation. As methods of facial recognition are not clear, there are question marks what ‘necessary’ data is to collect. The EDPS has also said that facial recognition is disputable from ethical point of view. The treatment of the human personality as an ‘object’ clearly violates fundamental human rights, weakening the value of the individual.
 
-### MinimiZation of the threat - recommendations
+### Minimization of the threat - recommendations
 
 Considering the aforementioned, as well as the fact that draft legislation, in form of the Artificial Intelligence Act is underway, in order to minimize the threat of AI on privacy and security the following recommendations should be considered:
 
@@ -344,11 +345,9 @@ Despite the fact that automated decision-making attracts regulatory attention, r
 
 Moreover, Policymakers need to collaborate on creating certification schemes (i.e. seals) and reporting mechanisms to alleviate bias and other relevant problems. In addition, it is crucial that they work together on drawing up Codes of Conduct. Said Codes would, inter alia, contain:
 
-a) draft Human Rights Impact Assessments;
-
-b) methodologies that could be applied to effectively audit decision-making algorithms and facilitate human intervention;
-
-c) draft Notices and relevant guidelines on how to provide individuals with information on the decision-making algorithms using clear and plain language.
+1. draft Human Rights Impact Assessments;
+2. methodologies that could be applied to effectively audit decision-making algorithms and facilitate human intervention;
+3. draft Notices and relevant guidelines on how to provide individuals with information on the decision-making algorithms using clear and plain language.
 
 Lastly, a great effort should be made to properly educate individuals in order to provide them with the opportunity to familiarise themselves with the algorithmic logic and also raise awareness on human rights issues.
 
@@ -374,11 +373,11 @@ However, at the same time there are many exceptions from such important mechanis
 
 Other European (non-EU) countries, such as Norway[: REFERENCE | ref85 |:], United Kingdom[: REFERENCE | ref86 |:], Iceland[: REFERENCE | ref87 |:], have developed their drone regulation in accordance with common EU drone rules. Similar regulations, for example, regarding requirements for drone registration, pilot examination and licensing, built-in remote identification systems and etc., are implemented in United States[: REFERENCE | ref88 |:], Canada[: REFERENCE | ref89 |:], Australia[: REFERENCE | ref90 |:] as well. Generally, developments in legal drone regulation are usually characterized by a greater centralization, covering wider range of UAV’s, and by taking a risk-based approach, thus with slight variations in the regulations based on type of unmanned aircraft operations being carried out, i.e., different flight purposes (recreational, commercial, etc.), drone size, weight or other specifications (e.g., with or without camera), level of pilot competence, etc. Although there are some differences, these common trends regarding drone regulation worldwide at least when it comes to general rules and principles in relation to drone usage illustrates that there is quite strong consensus on this matter, therefore it is highly plausible that a global (harmonised) framework for drones and their use might be adopted.
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 Public acceptance is a key to the growth of drone market and in order to achieve it the respect of citizens’ fundamental rights, such as the right to privacy and personal data protection, must be guaranteed[: REFERENCE | ref91 |:]. For this purpose, harmonized rules, which allow civil drone operations while at the same time guaranteeing the required high level of privacy and personal data protection, must be established at the international level, because potentially differing national approaches to these issues could lead to a significant weakening of the protection of these rights.
 
-However, the aforementioned developments in drone regulations are not sufficient to the detriment of protection of the right to privacy and personal data. Further joint action at the international level should be taken to develop legal requirements, regarding drone and their user’s registration, geo-awareness and remote identification systems, also to establish common rules *inter alia *related to drone cyber-security, geo-fencing, etc. Especially when drone manufacturers already apply some of these measures voluntarily (e.g., install geo-fencing systems in their manufactured drones[: REFERENCE | ref92 |:]). In addition, more attention should be paid to by design and by default measures (e.g., minimization of data, gathered by drones, automatic anonymization or removal of unnecessary data[: REFERENCE | ref93 |:], etc.) and possible obligations for online service providers (e.g., remote signal blocking, restrictions for data sharing, etc.). AI related issues in drone systems and cross-border exchange of data should get a closer look as well.
+However, the aforementioned developments in drone regulations are not sufficient to the detriment of protection of the right to privacy and personal data. Further joint action at the international level should be taken to develop legal requirements, regarding drone and their user’s registration, geo-awareness and remote identification systems, also to establish common rules *inter alia *related to drone cyber-security, geo-fencing, etc. Especially when drone manufacturers already apply some of these measures voluntarily (e.g., install geo-fencing systems in their manufactured drones[: REFERENCE | ref92 |:]). In addition, more attention should be paid to by design and by default measures (e.g., Minimization of data, gathered by drones, automatic anonymization or removal of unnecessary data[: REFERENCE | ref93 |:], etc.) and possible obligations for online service providers (e.g., remote signal blocking, restrictions for data sharing, etc.). AI related issues in drone systems and cross-border exchange of data should get a closer look as well.
 
 On the other hand, it must also be borne in mind, that the use of drones may have the opposite effect and, in some cases, even help to promote human rights, as, for example, is the case in drone journalism (e.g., drones can help journalists to document possible human rights violations in war zones or during demonstrations, etc.). Therefore, more restrictions imposed on drone usage in such cases may lead to weakened protection of other human rights, so the right balance must be struck in this regard.
 
@@ -388,6 +387,7 @@ Based on the "control dilemma", elaborated by David Collingridge[: REFERENCE | r
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
 title: Disinformation
+authors: C H Powell, Birgit Schippers, Irena Barkane, Oscar Puccinelli, Jukka Viljanen
 :---------------------------------------------------------:
 
 ## Disinformation: the concept[: REFERENCE | ref95 |:]
@@ -471,23 +471,17 @@ In practical terms, disinformation cannot be countered without an ongoing proces
 
 Practical steps against disinformation include:
 
-a) Monitoring and fact-checking: carried out by internet communications companies, academia, media, civil society, and independent fact-checking organizations.
-
-b) Investigative responses, which establish the accuracy of online content and provide insights into disinformation campaigns, including its origins, key  actors, degree of spread, and affected communities.
-
-c) Curatorial responses, primarily editorial and content policy and ‘community standards’.
-
-d) Technical and algorithmic responses, implemented by the social media platforms, video-sharing and search engines themselves, but also through third party tools (e.g. browser plug-ins) or experimental methods from academic research, using algorithms and/or Artificial Intelligence (AI) to detect and limit the spread of disinformation, or provide context or additional information on individual items and posts.
-
-e) De-monetization responses, designed to stop profit and disincentivise the creation of clickbait, counterfeit news sites, and other kinds of for-profit disinformation.
+1. Monitoring and fact-checking: carried out by internet communications companies, academia, media, civil society, and independent fact-checking organizations.
+2. Investigative responses, which establish the accuracy of online content and provide insights into disinformation campaigns, including its origins, key  actors, degree of spread, and affected communities.
+3. Curatorial responses, primarily editorial and content policy and ‘community standards’.
+4. Technical and algorithmic responses, implemented by the social media platforms, video-sharing and search engines themselves, but also through third party tools (e.g. browser plug-ins) or experimental methods from academic research, using algorithms and/or Artificial Intelligence (AI) to detect and limit the spread of disinformation, or provide context or additional information on individual items and posts.
+5. De-monetization responses, designed to stop profit and disincentivise the creation of clickbait, counterfeit news sites, and other kinds of for-profit disinformation.
 
 Additional measures, which focus specifically on the targets of the disinformation, include:
 
-f) Ethical and normative responses carried out at international, regional and local levels involving public condemnation of acts of disinformation or recommendations and resolutions aimed at thwarting these acts and sensitizing the public to the issues.
-
-g) Educational responses which promote citizens’ media and information literacy, critical thinking and verification in the context of online information consumption, as well as journalist training.
-
-h) Empowerment and credibility labelling efforts around building content verification tools and web content indicators, in order to empower citizens and journalists to avoid falling prey to online disinformation.[: REFERENCE | ref126 |:]
+6. Ethical and normative responses carried out at international, regional and local levels involving public condemnation of acts of disinformation or recommendations and resolutions aimed at thwarting these acts and sensitizing the public to the issues.
+7. Educational responses which promote citizens’ media and information literacy, critical thinking and verification in the context of online information consumption, as well as journalist training.
+8. Empowerment and credibility labelling efforts around building content verification tools and web content indicators, in order to empower citizens and journalists to avoid falling prey to online disinformation.[: REFERENCE | ref126 |:]
 
  
 
@@ -514,9 +508,8 @@ Co-operation between state and non-state actors should not, in itself, promote a
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
 title: Threats Connected to Pricacy and Freedom of Expression
+authors: Tiina Paiuste, Nikolas Thomopoulos, Pinelopi Troullinou, Artūrs Kučs, Konstantinos Kouroupis, Marijana Mladenoy, Igor Serotila 
 :---------------------------------------------------------:
-
-# **THREATS CONNECTED TO PRIVACY AND FREEDOM OF EXPRESSION**
 
 ## Introduction[: REFERENCE | ref128 |:]
 
@@ -526,9 +519,6 @@ Secondly, the freedom of expression can be both abused and limited in the online
 
 This part contains three different sections: (a) threats in relation to privacy and data protection in the context of digital mobility; (b) the right to be forgotten as a danger to the freedom of expression; and (c) risks connected to deplatforming.
 
- 
-
- 
 
 ## Threats in relation to privacy and data protection in the era of digital mobility[: REFERENCE | ref131 |:]
 
@@ -542,37 +532,31 @@ Although GDPR[: REFERENCE | ref135 |:] and equivalent regulations in other count
 
 Furthermore, automated and autonomous vehicles (AVs) produce more than 4TB of data daily, including personal data. The emergence of large databases facilitated through the use of cloud services, alongside the increasing use of Artificial Intelligence (AI), introduces new threats, e.g., surveillance[: REFERENCE | ref138 |:] in conjunction with cybersecurity risks.[: REFERENCE | ref139 |:] Since such emerging large datasets are also being sold to advertising organisations beyond national borders via various platforms, it is apparent that it becomes virtually impossible for individual users to exercise their data protection and privacy rights in full[: REFERENCE | ref140 |:],[: REFERENCE | ref141 |:]. The latter is due to the unavoidable difficulty in defining who is responsible and needs to address such threats. Consequently, enforcement is problematic as certain regulatory requirements are difficult to implement in practice, particularly in the transport sector, e.g., responsibility when transferring mobility service data outside the EU when all cloud services used in, e.g., Norway are located in the US. Technological developments in mobility and transport e.g. drones or AVs illustrate this cross-border challenge vividly.[: REFERENCE | ref142 |:]
 
-** **
-
 ### Developments in relation to the threat
 
 The European Union has been working to address some of these emerging threats since it is the largest single market globally, where GDPR and advanced digital mobility options co-exist. The Data Governance Act[: REFERENCE | ref143 |:] (DGA) has entered into force since June 2022 and will be applicable from September 2023. The European Commission anticipates that it will contribute *in "saving more than 27 million hours of public transport users’ time and up to €20 billion a year in labour costs of car drivers thanks to real-time navigation"*[: REFERENCE | ref144 |:]. It is important to stress that: *“Both personal and non-personal data are in scope of the DGA, and wherever personal data is concerned, the General Data Protection Regulation (GDPR) applies”*8*. *Yet, the definition of personal data still varies across countries. The Digital Services Act[: REFERENCE | ref145 |:] (DSA) is expected to become effective from 1st January 2024 aiming at protecting consumers and their fundamental rights online. Nonetheless, the fact that it only focuses on consumers limits its scope from the outset. Similarly, the Multimodal Digital Mobility Services[: REFERENCE | ref146 |:] (MDMS) Act aims to offer support for corporations and consumers, particularly focusing on digital mobility providers who offer a unified mobility service to end-users in collaboration with other mobility providers.
 
 Existing Human Rights charters are largely non-binding, (e.g. the Charter of Human Rights and Principles for the Internet or the Charter of Digital Fundamental Rights of the EU), despite the fact that certain treaties are based on fundamental rights (e.g. UDHR).[: REFERENCE | ref147 |:] Nonetheless, as outlined in the report section on the right to be forgotten[: REFERENCE | ref148 |:], European legislation based on Article 8 of the European Convention for the Protection of Human Rights and Fundamental Freedoms advocates for a high level of protection of the right to privacy.[: REFERENCE | ref149 |:] Equally, the High Level Expert Group on Artificial Intelligence set up by the European Commission has defined privacy as *"a fundamental right, particularly affected by AI systems"*.[: REFERENCE | ref150 |:] Privacy Impact Assessments are recommended to be undertaken to assess relevant risks, but this has proven difficult to implement and enforce in practice, particularly for SMEs (Small- and Medium-sized Enterprises) which constitute 99% of the companies within the EU.[: REFERENCE | ref151 |:] Given the major challenges faced by SMEs in Europe since 2019 (e.g. COVID-19, energy crisis), it has proven difficult to address data protection and privacy requirements appropriately. As a result, certain human rights may have been increasingly under threat due to the digitalisation of transport and mobility.
 
- 
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 Despite this being a constantly evolving context within Europe and worldwide, certain actions can be taken to minimise risks by the threats outlined. Specific recommendations for diverse stakeholders at local, national, and international level are summarised here:
 
-·  	Enhance data protection and privacy by design to be at the core of new mobility services and facilitate human rights compliance whilst not hindering innovation.
+- Enhance data protection and privacy by design to be at the core of new mobility services and facilitate human rights compliance whilst not hindering innovation.
 
-·  	Minimise shared responsibility among digital mobility providers and clarify within the newly agreed Acts in Europe (e.g. MDMS, DSA) to improve enforcement.
+- Minimise shared responsibility among digital mobility providers and clarify within the newly agreed Acts in Europe (e.g. MDMS, DSA) to improve enforcement.
 
-·  	Educate and empower individuals and SMEs regarding their data protection and privacy rights, since it is not right to expect them to carry this burden by themselves. Public and private companies should be competent and responsible by default, whilst also regulated by independent authorities to ensure that certain Human Rights obligations are adhered to.
+- Educate and empower individuals and SMEs regarding their data protection and privacy rights, since it is not right to expect them to carry this burden by themselves. Public and private companies should be competent and responsible by default, whilst also regulated by independent authorities to ensure that certain Human Rights obligations are adhered to.
 
-·  	Ensure that the same human rights which exist in the physical products and services should exist for digital products and services too, which should constitute a core principle across countries and transport modes as advocated by the GDHRNet. This would create a ‘phygital’ balance, which regulatory sandboxes3 could aid in defining responsibility and liability. Alternatively, the end-user provider should be liable towards end-users as has been the case with transport providers in the 20th century.
+- Ensure that the same human rights which exist in the physical products and services should exist for digital products and services too, which should constitute a core principle across countries and transport modes as advocated by the GDHRNet. This would create a ‘phygital’ balance, which regulatory sandboxes3 could aid in defining responsibility and liability. Alternatively, the end-user provider should be liable towards end-users as has been the case with transport providers in the 20th century.
 
-·  	Establish an international cooperation forum to aid in defining the balance between physical and digital rights, whilst avoiding the so called *‘rights inflation’ *as advocated by GDHRNet. This could be achieved by linking the balance between rights with appropriate ethical principles facilitated through existing approaches (e.g. SUMINI[: REFERENCE | ref152 |:]) and guidelines (e.g. Ethics Guidelines for Trustworthy AI: Privacy & Data Governance[: REFERENCE | ref153 |:]).
+- Establish an international cooperation forum to aid in defining the balance between physical and digital rights, whilst avoiding the so called *‘rights inflation’ *as advocated by GDHRNet. This could be achieved by linking the balance between rights with appropriate ethical principles facilitated through existing approaches (e.g. SUMINI[: REFERENCE | ref152 |:]) and guidelines (e.g. Ethics Guidelines for Trustworthy AI: Privacy & Data Governance[: REFERENCE | ref153 |:]).
 
-·  	Harmonise practices and jurisdictions where possible either by centralising agencies (e.g. DPO) or by revising relevant aspects of the GDPR.
+- Harmonise practices and jurisdictions where possible either by centralising agencies (e.g. DPO) or by revising relevant aspects of the GDPR.
 
 These recommendations are by no means prescriptive or a panacea. However, they aim at contributing in better ensuring the co-development of human rights for both the physical and the digital dimensions. It is a duty of all stakeholders involved to contribute in offering advanced digital services (e.g. mobility and transport), whilst complying with existing and emerging human rights.
 
- 
-
- 
 
 ## Deplatforming[: REFERENCE | ref154 |:]
 
@@ -586,19 +570,13 @@ The review of accounts and content can be automated or the result of human revie
 
 Platforms justify the removal or banning of a user and/or their content based on violations of its terms of service, thereby denying the user access to the community or service that it offers. Deplatforming can and does occur across a range of platforms and can refer to:
 
-·  	Social media companies, like Facebook, YouTube or Twitter;
-
-·  	Commerce platforms such as Amazon of the Apple Store;
-
-·  	Payment platforms, like PayPal or Visa;
-
-·  	Service platforms, like Spotify or Stitcher;
-
-·  	Internet infrastructure services like Cloudflare or web hosting.
+- Social media companies, like Facebook, YouTube or Twitter;
+- Commerce platforms such as Amazon of the Apple Store;
+- Payment platforms, like PayPal or Visa;
+- Service platforms, like Spotify or Stitcher;
+- Internet infrastructure services like Cloudflare or web hosting.
 
 While deplatforming negatively affects freedom of expression and is an extreme form of content moderation and a form of punishment for violations of acceptable behaviour as determined by the platform’s terms or service or community guidelines. At the same time deplatforming is also viewed as important tool in the arsenal of moderation interventions available to platforms.[: REFERENCE | ref158 |:] Deplatforming is justified by appealing to a broader discursive strategy that attempts to halt the normaliazation of potentially harmful speech over time.[: REFERENCE | ref159 |:] Deplatforming has been used as a response to hate speech, terrorist content, and disinformation/propaganda. For example, the major social media firms have removed hundreds of ISIS accounts since 2015, seeking to reduce the UN‑designated terrorist group’s reach online, which forced them onto less public and more closed platforms, reducing their visibility and public outreach, but also making it more difficult to monitor their activities. In 2018, Facebook and Instagram deplatformed (Facebook, 2018) the Myanmar (Facebook, 2018) military after it was involved in the genocide of Rohingya, closing hundreds of pages and accounts related to the military and banning several affiliated users and organizations from its services.
-
- 
 
 ### Developments in relation to threat
 
@@ -620,21 +598,19 @@ Today there is a growing consensus that we need to update Section 230 of the Com
 
 How might Section 230 CDA be rewritten? Legal scholars have put forward a variety of proposals, almost all of which adopt a carrot-and-stick approach, by tying a platform’s safe-harbour protections to its use of reasonable content-moderation policies. A representative example appeared in 2017, in a *Fordham Law Review* article by Danielle Citron and Benjamin Wittes, who argued that Section 230 should be revised with the following (highlighted) changes: "No provider or user of an interactive computer service *that takes reasonable steps to address known unlawful uses of its services that create serious harm to others* shall be treated as the publisher or speaker of any information provided by another information content provider *in any action arising out of the publication of content provided by that information content provider*."[: REFERENCE | ref175 |:]
 
- 
 
-### MinimiZation of the threat – recommendations
+### Minimzation of the threat – recommendations
 
 The platforms are the gatekeepers of information and have numerous effective tools in their arsenal to restrict or disseminate certain information. Therefore, it is reasonable that states have imposed primary duties on platforms to eliminate such harmful content as for instance incitement to violence and hatred. However, initiatives at international and national level aimed at ensuring taking down harmful content from platforms, seems to have forgotten about the states positive obligation to ensure freedom of expression. In mediating the public interest and individual rights online a delicate regulatory balance is required.[: REFERENCE | ref176 |:] Thus the international and national law should provide guidance for intermediaries on how to achieve it.[: REFERENCE | ref177 |:] The international and national law should set the clear rules in which types of cases deplatforming could be considered proportional measure.
 
 Additionally, any decision about deplatforming should be based on transparent rules. Platforms are required to provide a clear and specific statement of reasons for the decision to suspend or block the account.
 
 Last but not least, there should exist procedural guarantees. The internet intermediaries themselves should have a review procedure in place. At the same time the possibilities to contest decisions of online platforms created should complement, yet leave unaffected in all respects, the possibility to seek judicial redress.[: REFERENCE | ref178 |:]
-
  
 
 ## Right to be forgotten – a threat to freedom of expression[: REFERENCE | ref179 |:]
 
-### DESCRIPTION OF THE THREAT
+### Description of the threat
 
 On May 13, 2014, the Court of Justice of the European Union and the Tennessee district court reached different conclusions in cases dealing with the complex issues of privacy and memory in the Digital Age.[: REFERENCE | ref180 |:] Despite the fact that the cases involved a different factual background, the same issue was examined – whether we can restrict the harm caused by digital content that would otherwise be available indefinitely. On one side of the Atlantic, the right to be forgotten (hereinafter: RtbF) was acknowledged by the court and on the other, the court held that true information could not be deleted. However, they shared the idea that the concept of the RtbF raises serious concerns with respect to free expression.[: REFERENCE | ref181 |:]
 
@@ -644,9 +620,9 @@ Furthermore, RtbF could be used as an instrument of censorship by making it diff
 
 In light of the fact that the GDPR sketches only faint boundaries for the RtbF, search engine operators determine which data deletion requests should be granted and which should be denied without any appropriate guidance. Google issued guidelines for implementing the ruling, which instructs interpretations to be made within existing national law. The guidelines provide substantive direction in the form of criteria for the data-protection authorities’ handling of the right to be forgotten complaints. In this regard, allowing private businesses to act as both adjudicators and administrators in matters of freedom of expression is a risky combination that may limit freedom of speech since search engine operators are not well equipped to act as both. Why do we expect search engine operators to be able to strike a balance between RtbF and freedom of expression without any specified standards related to it and under the pressure that the refusal of the request could lead to enormous fines?
 
- 
 
-### DEVELOPMENTS IN RELATION TO the threat
+
+### Developments in relation to the threat
 
 The GDPR, leaning on a technology-agnostic approach and making room for future innovations, did not bind, in article 17, provisions to current trends and state-of-the-art technologies, intentionally leaving it up to provides to enact standards that will help them determine what information should be removed. The lack of guidelines on how such a complex legal mechanism should be implemented within an already sophisticated and interdependent environment has sparked questions about legitimacy, while commercial reputation-enhancing use of the right has attributed to it the title of a concealed form of censorship from critics.
 
@@ -662,25 +638,25 @@ The Court established that the illegality of the conduct of providing website in
 
  
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 The right to be forgotten can no longer be seen merely as a right to delete information or to preclude its diffusion, as it was originally the case.  In a rapidly advancing technological world, one must understand the right in a more multifaceted way. At its core, the right to be forgotten expands and defines itself as an entitlement for individuals to better control their personal data. Just as for the original pre-Internet right to be forgotten, this entitlement finds its justification in the recognition of the right to personal freedom, dignity, and self-realization.
 
 The following recommendations should be considered in relation to RtbF:
 
-●      Continuation of the academic and professional efforts to untangle legal intricacies surrounding the RtbF will help strike a balance with freedom of expression, in order to allow a higher legal standard of protection for citizens, effectively integrate forgetting mechanisms into diverse jurisdictions, as well as tackle expression challenges in a human rights-based approach to development;
+- Continuation of the academic and professional efforts to untangle legal intricacies surrounding the RtbF will help strike a balance with freedom of expression, in order to allow a higher legal standard of protection for citizens, effectively integrate forgetting mechanisms into diverse jurisdictions, as well as tackle expression challenges in a human rights-based approach to development;
 
-●      Proportionality instruments can help pave the way for states to enshrine forgetting mechanisms into their legal order, while maintaining an adequate level of protection in respect to freedom of expression of their citizens;
+- Proportionality instruments can help pave the way for states to enshrine forgetting mechanisms into their legal order, while maintaining an adequate level of protection in respect to freedom of expression of their citizens;
 
-●      European courts are in an ideal position to act as the highest instance needed to evolve and transform RtbF into a fully-functioning right; on the other hand, legal inertia and gaps are detrimental for current state of play;
+- European courts are in an ideal position to act as the highest instance needed to evolve and transform RtbF into a fully-functioning right; on the other hand, legal inertia and gaps are detrimental for current state of play;
 
-●      Clarifying criteria for RTBF need to be developed in order to strike a fair balance among equally important competing values such as privacy and the freedom of expression.
+- Clarifying criteria for RTBF need to be developed in order to strike a fair balance among equally important competing values such as privacy and the freedom of expression.
 
-●       
 
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
-title: Threats Connected to Vulnerable Groups
+title: Threats connected to vulnerable groups
+authors: Tiina Pajuste, Eva Lievens, Vesna Crnić-Grotić, Šejla Maslo Čerkić
 :---------------------------------------------------------:
 
 ## Introduction[: REFERENCE | ref182 |:]
@@ -688,8 +664,6 @@ title: Threats Connected to Vulnerable Groups
 As the threats described in this report have demonstrated, digital technology and access to the internet, despite their positive transformative potential, come with many potential risks. Although these threaten us all, vulnerable groups tend to be more affected. Many studies have demonstrated that vulnerable groups (such as refugees, migrants, children, older people, people with disabilities, indigenous groups) benefit less from the digital world.[: REFERENCE | ref183 |:] For example, ethnicity, sexual identity, gender, religion and age can all exacerbate incidents of online abuse and harassment. This is especially true of people whose identities cover multiple marginalised groups. Negative experiences online can have a severe impact on that person’s willingness to use technology and can thereby deprive the person of meaningful access to the internet.
 
 Vulnerable groups may also have fewer digital skills and access to digital education, which makes them more likely to expose themselves to more risks online. It is vital to be aware of the impact of the digital threats to vulnerable groups, in order to address their needs in the digital realm. This part of the report aims to assist in raising awareness of issues regarding vulnerable groups in the online context by addressing the following three topics: (a) the digital divide and its impact, (b) the rights of children in the digital space, and (c) online hate speech, especially in relation to vulnerable groups.
-
- 
 
 
 ## Digital divide – unequal access to the internet and increased inequality
@@ -704,25 +678,19 @@ The digital divide is the gap between those who have access to modern informatio
 
 Broadly speaking, the digital divide is linked to six different themes:
 
-1) Lack of infrastructure - lack of appropriate systems and facilities to use the Internet. This is primarily a global problem, with scissors predominantly between countries and within larger countries.
-
-2) Economic reasons – in addition to the problems of the country / region, people's own economic opportunities are a separate problem.
-
-3) Lack of skills – the internet may be available, but often there are no skills to navigate it successfully. The development of digital skills is still in its infancy in the world, but the user base is growing.
-
-4) Linguistic accessibility problems – the Internet is mainly in English. Most social media sites operate in either English or the local main language (Russian, Mandarin), which continues to ignore those who do not speak it.
-
-5) Special needs – the Internet is an audiovisual medium that requires user activity. More and more attention is being paid to the fact that the deaf, blind and other people with special needs have been left out of the development of the Internet.
-
-6) Restricting access as a goal – because the internet is so important in today's world, network restrictions are common as a punitive or governmental repressive measure. It is possible to shut down the internet altogether or block access to certain topics.
+1. Lack of infrastructure - lack of appropriate systems and facilities to use the Internet. This is primarily a global problem, with scissors predominantly between countries and within larger countries.
+2. Economic reasons – in addition to the problems of the country / region, people's own economic opportunities are a separate problem.
+3. Lack of skills – the internet may be available, but often there are no skills to navigate it successfully. The development of digital skills is still in its infancy in the world, but the user base is growing.
+4. Linguistic accessibility problems – the Internet is mainly in English. Most social media sites operate in either English or the local main language (Russian, Mandarin), which continues to ignore those who do not speak it.
+5. Special needs – the Internet is an audiovisual medium that requires user activity. More and more attention is being paid to the fact that the deaf, blind and other people with special needs have been left out of the development of the Internet.
+6. Restricting access as a goal – because the internet is so important in today's world, network restrictions are common as a punitive or governmental repressive measure. It is possible to shut down the internet altogether or block access to certain topics.
 
 Internet access is a prerequisite for all other possibilities regarding the Internet to work. The negative impact of the digital divide on human rights has been addressed in the legal literature.[: REFERENCE | ref186 |:]  People who do not have access to the Internet are often socially isolated, as social interaction is increasingly online or mediated by ICT. Freedom of expression and assembly are increasingly being used online, so if you do not have that opportunity, your rights will be restricted. Secondly, the digital divide is having a negative impact on education. The Internet is a rich body of information, the loss of which is a major obstacle to learning. School tasks increasingly involve the use of computers and the Internet, so the lack of access to these resources can seriously affect children's right to education. Third, the number of jobs requiring digital skills is growing rapidly. The digital divide limits access to these jobs and the associated income. Lack of digital skills can ultimately lead to a complete lack of job opportunities, which can infringe on a person's right to work. The digital divide also exacerbates socioeconomic and other vulnerabilities by barring many people from the information necessary to break out of their current living situation.
 
 Statistics show that vulnerable groups have less access and benefit less from the digital world. This magnifies inequalities and leads to an unjust world, which has been recognised internationally on the highest level. For example, the UN Secretary-General has stated that "Digital divides reflect and amplify existing social, cultural and economic inequalities. The gender gap in global Internet use is a stark example – in two out of every three countries, more men use the Internet than women. ... Similar challenges affect migrants, refugees, internally displaced persons, older persons, young people, children, persons with disabilities, rural populations, and indigenous peoples. We must close these gaps through better metrics, data collection, and coordination of initiatives."[: REFERENCE | ref187 |:]  
 
- 
 
-### developments in relation to the threat
+### Developments in relation to the threat
 
 Internet access is a global problem and is handled by a wide variety of organizations. The main international actors in the area are the UN and the European Union. One of the first in-depth discussions within the UN framework was the 2011 report by Frank La Rue, the UN Special Rapporteur on the Promotion and Protection of the Right to Freedom of Expression and Opinion, which made a number of recommendations to ensure universal access to the Internet.[: REFERENCE | ref188 |:] The report emphasized that ensuring universal access to the Internet should be a priority for all countries.
 
@@ -736,31 +704,23 @@ At the end of 2021, the UN Envoy on Technology, together with the United Nations
 
 Various programs and other commissions have been set up within the United Nations, such as the UNESCO Information for All Program (IFAP), launched in 2001, and the GIGA initiative launched by ITU and UNICEF in 2019, which seeks to ensure that every school in the world has access to the Internet.
 
- 
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 ICT is considered to be one of the most potential tools to help reduce inequalities in the world; but there is also a danger that ill-considered or short-sighted action may increase inequalities.
 
 Global efforts need to consistently be focused at providing everyone access to the internet, to ensure that everyone can benefit from the positive aspects that come from the usage of the internet. To achieve that aim, focus also needs to be placed on the development of digital skills as otherwise the potential negative repercussions (e.g. personal data leaked, becoming victims of scams, etc) might outweigh the positives. The UN Roadmap for Digital Cooperation has the ambition aim of ensuring every person safe and affordable access to the Internet by 2030. More specifically the UN will: [: REFERENCE | ref193 |:]
 
-(a) Support efforts to establish a baseline of digital connectivity that individuals need to access the online space, as well as a definition of "affordability", including universal targets and metrics;
-
-(b) Convene a global group of investors and financing experts to consider the development of a financing platform and find other new models for investment in connectivity, in particular, in hard-to-reach and rural areas;
-
-(c) Promote new and potentially transformative models to accelerate connectivity, such as the GIGA initiative of ITU and the United Nations Children’s Fund;
-
-(d) Promote the development of enabling regulatory environments for smaller-scale Internet providers, along with local and regional assessments of connectivity needs;
-
-(e) Accelerate discussions on connectivity as part of emergency preparedness, responses and aid, including working through the inter-agency Emergency Telecommunications Cluster.
+1. Support efforts to establish a baseline of digital connectivity that individuals need to access the online space, as well as a definition of "affordability", including universal targets and metrics;
+2. Convene a global group of investors and financing experts to consider the development of a financing platform and find other new models for investment in connectivity, in particular, in hard-to-reach and rural areas;
+3. Promote new and potentially transformative models to accelerate connectivity, such as the GIGA initiative of ITU and the United Nations Children’s Fund;
+4. Promote the development of enabling regulatory environments for smaller-scale Internet providers, along with local and regional assessments of connectivity needs;
+5. Accelerate discussions on connectivity as part of emergency preparedness, responses and aid, including working through the inter-agency Emergency Telecommunications Cluster.
 
 These initiatives need to be supported by other organisations, states, other stakeholders and by civil society actions.
 
 It is important to realize that the digital divide is a reality between and within countries, and failing to address it means that all other benefits of the Internet are limited or exacerbate societal inequalities.
 
- 
-
- 
 
 ## Threats and opportunities for children’s rights in the digital environment[: REFERENCE | ref194 |:]
 
@@ -773,16 +733,13 @@ There is no doubt that the digital environment has enormous potential for the re
 Yet, digital technologies also pose threats to children’s rights. Such threats relate to illegal and harmful content and activities that children encounter, on social media, in gaming environments, or even the metaverse.[: REFERENCE | ref199 |:] In a recent consultation by the European Union, children expressed their concerns regarding content that glorifies and promotes self-harm, suicide, violence, hate speech, sexual harassment, drug taking, risky online challenges, eating disorders and dangerous dieting practices.[: REFERENCE | ref200 |:] Other acts that children can fall victim to relate to cyberbullying and other forms of cyberviolence, online distribution of Child Sexual Abuse Material (CSAM), webcam sexual abuse and grooming,[: REFERENCE | ref201 |:] or radicalisation.
 
 Moreover, many of the platforms that provide children with these fora to exercise their rights are built on commercial business models that are data- and advertising-driven,[: REFERENCE | ref202 |:] and often not designed with children in mind.[: REFERENCE | ref203 |:] Children’s data is collected extensively, and their behaviour, attention, and emotions are increasingly tracked. Inferences are made about who they are, what they feel, how they perform, and what they would like (to buy), when they browse the internet, play with connected toys or online games, or are active on mobile apps and learning platforms. These inferences are often used to profile them for commercial purposes, for instance, to present them with targeted advertising. Serious concerns have been raised with regard to profiling and other forms of automated decision-making that affect children, especially regarding discriminatory effects and the impact on the right to development.[: REFERENCE | ref204 |:] There are fears that algorithms and commercial targeting practices shape children’s preferences and thoughts from a very young age[: REFERENCE | ref205 |:] and hinder self-development[: REFERENCE | ref206 |:] free from commercial motives. Moreover, monetisation elements that sometimes resemble gambling (e.g. lootboxes) or encourage overspending are increasingly integrated in online games. Other concerns relate to influencer marketing, which challenges children’s advertising literacy skills, and digital labour by children themselves. Children and their parents are expected to make difficult decisions about whether and how to use such commercial platforms, devices, and services that function in complex and opaque manners[: REFERENCE | ref207 |:] and whose impact on the rights of the child are difficult to grasp.
-
  
 
 ### Developments in relation to the threats
 
 Although the issue of protecting children on the internet popped up on the radar of policymakers around mid-1990s, a more holistic approach that focusses on the full range of children’s rights that are impacted in the digital environment has only gained traction in recent years. The Council of Europe’s Committee of Ministers adopted a Recommendation on Guidelines to respect, protect, and fulfil the rights of the child in the digital environment in 2018. This was the first comprehensive policy document on this issue adopted by a regional human rights organisation. The recommendation states that the digital environment[: REFERENCE | ref208 |:] reshapes ‘children’s lives in many ways, resulting in opportunities for and risks to their well-being and enjoyment of human rights’,[: REFERENCE | ref209 |:] and provides states with recommendations on how to review their legislation, policies and practices in order to maximise the potential and minimise the risks. Not much later, the United Nations Committee on the Rights of the Child (CRC Committee) decided to develop a General Comment on the rights of the child in relation to the digital environment. In this General Comment No. 25, adopted in 2021, the CRC Committee emphasises that this environment ‘affords new opportunities for the realization of children’s rights, but also poses the risks of their violation or abuse’.[: REFERENCE | ref210 |:] Although the General Comment is not binding per se, it provides an important interpretation of the UNCRC in light of digital developments for its 196 parties. Around the same time, the EU published its Strategy on the Rights of the Child, built on six key pillars of which the digital and information society is one.[: REFERENCE | ref211 |:] Within this pillar the EU aims to ensure that children can safely navigate the digital environment, and that its opportunities are harnessed. This more general Strategy was followed in 2022 by a new European strategy for a better internet for kids (BIK+).[: REFERENCE | ref212 |:] This BIK+ strategy aims ‘to complement and support the practical implementation of the existing measures to protect children online, develop children’s skills and empower them to safely enjoy and shape their life online’. Also in 2021, the OECD released its Recommendation on Children in the Digital Environment.[: REFERENCE | ref213 |:] This Recommendation, which is aimed at governments, is accompanied by ‘Guidelines for Digital Service Providers’ intended to support these actors to take actions to protect and respect the rights, safety, and interests of children.
 
-** **
-
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 There is a consensus that minimising the risks for children’s rights in the digital environment is a shared responsibility of all stakeholders. The policymakers that have adopted the documents described above all agree that enhancing the potential and limiting the threats that digital technologies pose to children and their rights can only be achieved if policymakers and legislators, regulatory authorities (such as data protection and consumer protection authorities), industry, civil society and the research community work together.
 
@@ -790,13 +747,9 @@ According to the CRC Committee, states, for instance, should ‘ensure that, in 
 
 More generally, all policy documents also point to the importance of awareness-raising, education and the provision of information about how digital technologies work, aimed at professionals working with children, parents and children themselves. Involving children in the creation of such campaigns, learning material and information is considered essential.
 
- 
-
- 
-
 ## Hate speech online and the approach of the Council of Europe and the European Union[: REFERENCE | ref217 |:]
 
-### description of the threat
+### Description of the threat
 
 The threat of hate speech has long been recognized by the Council of Europe as an organization with a mandate to protect human rights and fundamental freedoms. Even though there is no universally accepted international legal definition of hate speech, including within the CoE, and what is hateful is often considered disputed or controversial[: REFERENCE | ref218 |:], there is still agreement that most serious abuses of freedom of expression that jeopardize democratic values, social stability and peace need to be properly tackled. Such forms of speech do not enjoy the protection under right of freedom of expression, as defined by international human rights documents.
 
@@ -817,8 +770,7 @@ The European Commission warned that the hate speech as spread online can have a 
 In particular, online hate speech brought in the responsibilities of online platforms as providers of services and enablers.  While the comprehensive regulatory framework addressing (illegal hate) speech online within the EU is yet to be enacted through the Digital Services Act (DSA), the European Commission has, through the launch of the Code of Conduct on Countering Illegal Hate Speech Online, introduced an important self-regulatory mechanism to combat the proliferation of racist and xenophobic speech.
 
  
-
-### developments in relation to the threat
+### Developments in relation to the threat
 
 In May 2022, the Council of Europe adopted a new Recommendation CM/Rec(2022)16 with a set of principles and guidelines to its member states aimed at preventing and combatting hate speech, both online and offline. The document builds on the existing framework, standards, case law and the monitoring efforts of the Council of Europe concerning hate speech so far.[: REFERENCE | ref225 |:] For the purposes of this recommendation, hate speech is understood "as all types of expression that incite, promote, spread or justify violence, hatred or discrimination against a person or group of persons, or that denigrates them, by reason of their real or attributed personal characteristics or status such as “race",[[: REFERENCE | ref2 |:]](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=0900001680a67955#_ftn2) colour, language, religion, nationality, national or ethnic origin, age, disability, sex, gender identity and sexual orientation”. Member states are called to address the rise in hate speech, especially in the online sphere, through adoption of a comprehensive legal and policy framework. The Council maintained the existing notion that the most serious forms of hate speech should be addressed through criminal legislation, while other less severe expressions are to be tackled through other means, including civil and administrative law. Forms of speech which are not serious enough to be considered in violation of the Convention should nevertheless be addressed through alternative responses.
 
@@ -832,9 +784,8 @@ Finally, in her 2020 State of the Union speech, Ms Ursula van der Leyen proposed
 
 While the Code of Conduct has brought innovative and fairly comprehensive framework that aimed at tackling hate speech in the EU and was endorsed by the biggest global private actors, its self-regulatory nature and the lack of transparency in decision-making remained its biggest shortcomings. To overcome this, the Digital Service Act (DSA), that is awaiting formal adoption and that will be directly applied in the EU member states is hoped to introduce landmark rules to effectively tackle the spread of illegal content online and protect people's fundamental rights in the digital sphere.[: REFERENCE | ref237 |:] With regards to combatting online hate speech, the overarching aim is to ensure more responsibility of intermediary services – social media and marketplaces – which will have to take effective measures to better protect users in the digital environment.
 
- 
 
-### MinimiZation of the threat – recommendations
+### Minimization of the threat – recommendations
 
 The initiative to make (online) hate crime one of EU crimes may bring about uniformity in the European treatment of hate crime. So far, the Member States had a different approach – from a more lenient one in the Western Europe to the stricter approach in the former socialist countries.[: REFERENCE | ref238 |:] Criminalization, however, could not be the only approach. It has to be accompanied with more education and training especially of young people on how to be aware of hate crime, how to recognize it and how to fight it online. In addition, self-regulation remains to be one of the options – however, a more comprehensive regulatory framework will be introduced by the DSA.
 
@@ -842,3 +793,16 @@ The consistent policy with respect to examples of hate crime online is also a pr
 
 The stances of the European Court of Human Rights in the recent decisions concerning online hate speech also show a trend of narrowing of scope of protected speech under Article 10. This development seems to be a reflection of the global social and political context of migrations and the Covid-19 pandemic. More countries introduce more stringent rules on online speech, in efforts to address numerous concerns, relating not only to hate speech, but also complex misinformation narratives and conspiracy theories’ effects on public order and safety. These needs may also be reflected in the future decisions of the European Court of Human Rights.
 
+
+:-------------------- CHAPTER_HEADER --------------------:
+image: "theme/images/bg_chapter.png"
+title: Conclusion and recommendations
+:--------------------------------------------------------:
+
+
+Despite the plethora of different threats to human rights protection from the digital environment, the trend of digitalisation will continue and impact us even more profoundly in the years to come. Therefore, it is imperative to keep in mind the risks (both highlighted in this report and others) and take action to minimize them to ensure the benefits of digital technology outweigh the negatives. All actors connected to the digital world need to acknowledge the human rights impact of their actions and weigh the potentially conflicting human rights and other considerations in their decision-making process. If the risks are given due consideration, then digital means can be utilised to ensure human rights protection both online and offline.
+
+On the basis of the analysis of the threats contained in the report, a set of recommendations are made, see [tab recommendations](#summary). More recommendations can be found at the end of each report section.
+:--- BOOKMARK ---:
+Read [all recommendations](#summary)
+:---------:

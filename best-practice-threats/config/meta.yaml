@@ -1,32 +1,32 @@
 # PUBLICATION META INFO
 # —————————————————————
 
-title:                  "How Platforms Respond to Human Rights Conflicts Online"
-subtitle:               "Best Practices in Weighing Rights and Obligations in Hybrid Online Orders"
-authors:                "Matthias C. Kettemann (Ed.)"
+title:                  "Specific Threats to Human Rights Protection from the Digital Reality"
+subtitle:               "International responses and recommendations to core threats from the digitalised world"
+authors:                "Tiina Pajuste (Ed.)"
 year:                   2022
 date_publication:       October 2022
 # date_submission:
 # date_last_updated:
 
-keywords:               Platform response, hybrid online orders, human rights, best practices, rights and obligations, hate speech, elections, platform rules
+keywords:               human rights, digital reality, digital threats, policy proposals, international action, human rights protection
 
-abstract:               "Platforms have power. But this power is not unchecked. Governments have an important role to play in protecting their citizens’ rights vis-à-vis third parties and ensuring a communication order in which rights are not violated. This collection unites studies by researchers from across Europe within the Global Digital Human Rights Networks on the best human rights practices of platforms.\n
-
-Spanning from studies on the tools and vectors of online power to hate speech and discrimination, the authors discuss the normative and algorithmic approaches of platforms to the governance of information flows online and their impact on human rights. As best practices authors identify the recognition of infrastructure control as a lever of power, the reduction of discriminatory practices, a stronger commitment to the rule of law on platforms, the introduction of deliberative elements and the introduction of normative sandboxes to help platforms and regulators innovate."
+abstract:               "Digital technologies come with both widespread benefits and potential threats to people and communities across the globe. It is important to be aware of the threats in order to fully harness the positive potential of digital technologies. This report hopes to contribute to this goal. It is a compilation of contributions from twenty-two researchers from the Global Digital Human Rights Network. The report highlights some core problems that can arise in the digital realm. The report is divided into five parts: (a) overarching issues that impact human rights in general, (b) threats that are connected to technology/technological advancements, (c) threats connected to disinformation, (d) threats connected to privacy and freedom of expression, and (e) threats in relation to vulnerable groups.\n
+ 
+The amplitude of different threats makes it essential that these technologies are reined in by effective regulation based on international human rights law and standards. The initiatives taken on both regional and global levels are noted in this report in relation to each threat that is addressed. Each report section concludes with recommendations for policies and activities that are aimed at minimising threats to human rights protection from the digital environment."
 
 # <h3>Authors</h3>\n
 # Wolfgang Benedek, Alex Fischer, Gregor Fischer-Lessiak, Vivienne Gold, Matthias C. Kettemann, Birgit Schippers, Mart Susi, Jukka Viljanen"
 
-cite_as:               "Matthias C. Kettemann (ed.), How Platforms Respond to Human Rights Conflicts Online. Best Practices in Weighing Rights and Obligations in Hybrid Online Orders (Hamburg: Verlag Hans-Bredow-Institut, 2022)"
+cite_as:               "Tiina Pajuste (ed.), Specific Threats to Human Rights Protection from the Digital Reality (Tallin: Tallinn University, 2021) "
 
-pdf_url:                https://graphite.page/GDHRNet-platform-response/assets/documents/GDHRNet-BestPractice-EditedVolume.pdf
+pdf_url:                https://graphite.page/GDHRNet-threats-to-human-rights-protection/assets/documents/GDHRNet-ThreatsReport-EditedVolume.pdf
 # doi:                    10.21241/ssoar.78580
 # isbn:                   978-989-746-128-6
-contact_email:          m.kettemann@leibniz-hbi.de
+contact_email:          t.pajuste@gmail.com
 
-short_url:              https://graphite.page/GDHRNet-platform-response
-social_image_url:       https://graphite.page/GDHRNet-platform-response/assets/images/social.png
+short_url:              https://graphite.page/GDHRNet-threats-to-human-rights-protection
+social_image_url:       https://graphite.page/GDHRNet-threats-to-human-rights-protection/assets/images/social.png
 lang:                   en
 
 
@@ -94,12 +94,12 @@ further_links:
 
 :---------------------------------------------------:
 tabs:
-  - title: "Executice summary"
+  - title: "Study"
     ref: "/"
     slug: index
     include_abstract: true
     md_container: article
-  - title: "Best Practices"
+  - title: "Recommendations"
     slug: summary
     md_container: section
   - title: "Contributors"

@@ -27,3 +27,9 @@ ref$1:\n    short: "$2"\n    long: "$2"
     replace with
 
 [: REFERENCE | ref$1 |:]
+
+
+\[(\d*)\] (.*)
+
+    replace with
+
