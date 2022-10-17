@@ -18,19 +18,19 @@ The [GDHRNet COST Action](https://www.cost.eu/actions/CA19143/) will systematica
 ![Logo COST](assets/images/image1.png)
 ### Contact
 
-Action Chair<br><span class="light"><a href="mailto:mart.susi@tlu.ee">Professor Dr Mart SUSI</a></span>
+Action Chair<br><span class="light"><a href="mailto:mart.susi@tlu.ee">Professor Dr Mart Susi</a></span>
 
-Action Vice Chair<br><span class="light"><a href="mailto:vygante.milasiute@tf.vu.lt">Dr Vygante MILASIUTE</a></span>
+Action Vice Chair<br><span class="light"><a href="mailto:vygante.milasiute@tf.vu.lt">Dr Vygantė Milašiūtė</a></span>
 
-Science Communications Manager<br><span class="light"><a href="mailto:laurenakalaja@hotmail.com">Laurena KALAJA</a></span>
+Science Communications Manager<br><span class="light"><a href="mailto:gregor.fischer@uni-graz.at">Gregor Fischer-Lessiak</a></span>
   
-Grant Awarding Coordinator<br><span class="light"><a href="mailto:jukka.viljanen@tuni.fi">Professor Dr Jukka VILJANEN</a></span> 
+Grant Awarding Coordinator<br><span class="light"><a href="mailto:jukka.viljanen@tuni.fi">Professor Dr Jukka Viljanen</a></span> 
   
 WG 1 - Fundamental and vertical dimension of human rights online <br><span class="light"><a href="mailto:tiina.pajuste@tlu.ee">Dr Tiina PAJUSTE, WG leader</a></span>
   
 WG 2 - Practical dimension of human rights online <br><span class="light"><a href="mailto:m.kettemann@leibniz-hbi.de">Professor Dr Matthias C. KETTEMANN, WG leader</a></span>
   
-WG 3 - Dissemination, Exploitation and Sustainability <br><span class="light"><a href="mailto:graziella.romeo@unibocconi.it">Dr Graziella ROMEO, Chair, WG leader</a></span><br>
+WG 3 - Dissemination, Exploitation and Sustainability <br><span class="light"><a href="mailto:giovanni.degregorio@csls.ox.ac.uk">Ph.D Giovanni De Gregorio , WG leader</a></span><br>
 
 [Action Management Committee](https://www.cost.eu/actions/CA19143/#tabs|Name:Management-Structure) 
 :---------------------------------------:
