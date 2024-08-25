@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "64244225358d302dc8b5d6098411138e11183cd49c21ba7af219eaaa0fb2f902"
+            "sha256": "7b3e2625e36717d6c2764a04d5d0bbddf9c352e39c71ed7d1324359414405ee1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -184,9 +184,9 @@
             "version": "==0.20.1"
         },
         "graphite-paper": {
-            "git": "https://github.com/crosssenses/graphite-paper.git",
+            "editable": true,
             "markers": "python_version >= '3.6'",
-            "ref": "ce7a9f868a21f1ba1a898adef891287abbddffa3"
+            "path": "./../graphite-paper"
         },
         "idna": {
             "hashes": [

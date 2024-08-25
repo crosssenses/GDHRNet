@@ -12,8 +12,8 @@ jinja2 = "*"
 pyyaml = "*"
 numpy = "*"
 pandas = "*"
-graphite-paper = {git = "https://github.com/crosssenses/graphite-paper.git"}
-# graphite-paper = {editable = true, path = "./../graphite-paper"}
+# graphite-paper = {git = "https://github.com/crosssenses/graphite-paper.git"}
+graphite-paper = {editable = true, path = "./../graphite-paper"}
 sphinx = "*"
 sphinx-rtd-theme = "*"
 
