@@ -33,3 +33,31 @@ ref$1:\n    short: "$2"\n    long: "$2"
 
     replace with
 
+\[\s(.*?)\]\(.*\)
+
+    replace with
+
+ $1
+
+
+
+
+(long: .*?)\[\s(.*?)\]\(.*\)(.*)
+
+    relplace with
+
+$1 $2$3\n    url: "$2"
+
+
+
+
+^# \*\*(.*?)\*\*
+
+    replace with
+
+
+:-------------------- CHAPTER_HEADER --------------------:
+image: "theme/images/bg_chapter.png"
+title: $1
+subtitle: XXX
+:---------------------------------------------------------: 
