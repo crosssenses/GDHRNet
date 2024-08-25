@@ -1,0 +1,112 @@
+# PUBLICATION META INFO
+# —————————————————————
+
+title:                  "Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms? "
+subtitle:               "Guidelines for Companies"
+authors:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann"
+year:                   2024
+date_publication:       September 2024
+# date_submission:
+# date_last_updated:
+
+keywords:               XXX
+
+abstract:               "XXX This study, the fourth in a series conducted within the Global Digital Human Rights Network, focuses on the changes in (social) media governance after Russia’s attack on Ukraine. This study analyses how 29 states, including 18 EU members, have dealt with governing information flows related to the informational dimension of Russia’s war on Ukraine.\n
+
+Based on questions answered by country rapporteurs, and analysis by a team of editors, this study shows a common approach by EU member states after the EU’s ban on Russian state-sponsored media. Non-EU-states tend to have a less vigorous response to Russian state-sponsored media.\n
+
+Contributing authors: Wolfgang Benedek, Alex Fischer, Gregor Fischer-Lessiak, Vivienne Gold, Matthias C. Kettemann, Birgit Schippers, Mart Susi, Jukka Viljanen\n
+# <h3>Authors</h3>\n
+# Wolfgang Benedek, Alex Fischer, Gregor Fischer-Lessiak, Vivienne Gold, Matthias C. Kettemann, Birgit Schippers, Mart Susi, Jukka Viljanen"
+
+
+cite_as:               "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann, Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms. Guidelines for Companies. (Hamburg: Verlag Hans-Bredow-Institut, 2024)"
+
+pdf_url:                https://graphite.page/GDHRNet-WP2/assets/documents/GDHRNet-Working_Paper-4.pdf
+# doi:                    10.21241/ssoar.78580
+# isbn:                   978-989-746-128-6
+contact_email:          m.kettemann@leibniz-hbi.de
+
+short_url:              https://graphite.page/DSA-guidelines
+social_image_url:       https://graphite.page/DSA-guidelines/assets/images/social.png
+lang:                   en
+
+
+# PUBLICATION STYLE
+# —————————————————————
+styles:                 theme/styles/GDHRNet.css
+background_url:         theme/images/bg.png
+
+
+
+# DISCLAIMER
+# —————————————————————
+# data_usage:
+# disclaimer:
+# terms_of_use:
+licence:                CC BY SA 4.0
+
+# Author info is shown in footer bar and on the right, if no logo is provided.
+author_info:            A Global Digital Human Rights Network (GDHRNet) milestone output
+logo_url:               theme/images/Logo_GDHRNet_horizontal.svg
+
+
+# SETTINGS
+# —————————————————————
+
+author_info_sticky:     true
+no_journal:             false
+matomo_tracking:        true
+matomo_url:             "https://piwik.wunderjewel.de/"
+matomo_siteId:          "4"
+load_confetti:          false
+
+
+# PUBLISHER INFO
+# thanks for mentioning graphite
+# —————————————————————
+
+brand:                  graphite – Enhanced publications for a digital environment
+brand_url:              https://www.impactdistillery.com/graphite
+brand_logo:             theme/images/graphite.svg
+
+# Infos in expandable header
+imprint:                "This is a publication from the Global Digital Human Rights Network (GDHRNet) working paper series, edited by by Mart Susi and Matthias C. Kettemann.\n\n
+The publication is based upon work from COST Action GDHRNet – CA19143, supported by COST (European Cooperation in Science and Technology"
+
+further_publications:
+   - label: "#1: Viral Information"
+     url: https://graphite.page/GDHRNet-WP1
+   - label: "#2: Covid-19 “Vaccine Passport”"
+     url: https://graphite.page/GDHRNet-WP2
+   - label: "#3: Can Platforms Cancel Politicians?"
+     url: https://graphite.page/GDHRNet-WP3
+   - label: "#4: Governing Information Flows During War?"
+     url: https://graphite.page/GDHRNet-WP4
+
+further_links:
+   - label: Global Digital Human Rights Network
+     url: https://gdhrnet.eu
+   - label: COST Action GDHRNet – CA19143
+     url: https://www.cost.eu/actions/CA19143
+
+
+# TABS
+# —————————————————————
+
+:---------------------------------------------------:
+tabs:
+  - title: "Study"
+    ref: "/"
+    slug: index
+    include_abstract: true
+    md_container: article
+  - title: "Executive Summary"
+    slug: summary
+    md_container: section
+  - title: "Contributors"
+    slug: contributors
+    md_container: section
+  - title: "About the series"
+    slug: series
+    md_container: section
