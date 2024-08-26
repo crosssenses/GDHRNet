@@ -17,13 +17,13 @@ abstract:               "This study is a key output from the  GDHRNet (Global Di
 
 cite_as:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann, Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms. Assessment Model for States. (Hamburg: Verlag Hans-Bredow-Institut, 2024)"
 
-pdf_url:                https://graphite.page/GDHRNet-WP2/assets/documents/GDHRNet-Working_Paper-4.pdf
+pdf_url:                https://graphite.page/dsa-assessment-model/assets/documents/GDHRNet-DSA-Assessment-Model.pdf
 # doi:                    10.21241/ssoar.78580
 # isbn:                   978-989-746-128-6
 contact_email:          m.kettemann@leibniz-hbi.de
 
-short_url:              https://graphite.page/DSA-assessment-model
-social_image_url:       https://graphite.page/DSA-assessment-model/assets/images/social.png
+short_url:              https://graphite.page/dsa-assessment-model
+social_image_url:       https://graphite.page/dsa-assessment-model/assets/images/social.png
 lang:                   en
 
 
