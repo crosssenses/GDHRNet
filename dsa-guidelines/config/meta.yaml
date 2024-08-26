@@ -9,11 +9,13 @@ date_publication:       September 2024
 # date_submission:
 # date_last_updated:
 
-keywords:               XXX, XXX
+keywords:               Digital Services Act, Digital Services Coordinator, human rights online, EU, digital governance
 
-abstract:               "XXX This study, the fourth in a series conducted within the Global Digital Human Rights Network, focuses on the changes in (social) media governance after Russia’s attack on Ukraine. This study analyses how 29 states, including 18 EU members, have dealt with governing information flows related to the informational dimension of Russia’s war on Ukraine.\n
+abstract:               "This study is a key output from the  GDHRNet (Global Digital Human Rights Network), which is dedicated to the investigation of theoretical and practical challenges of the protection of human rights in the digital context.\n
 
-                        Based on questions answered by country rapporteurs, and analysis by a team of editors, this study shows a common approach by EU member states after the EU’s ban on Russian state-sponsored media. Non-EU-states tend to have a less vigorous response to Russian state-sponsored media.\n"
+  It is presented as part one of two outlining key outputs from common research efforts, and  aims to establish standards and recommendations for online intermediaries to assess their compliance with human rights obligations. The research is based on a questionnaire distributed to GDHRNet members, with responses from nine participants representing both EU and non-EU countries.\n
+
+  The findings underscore the centrality of the Digital Services Act (DSA) in European platform regulation, alongside other relevant EU legislative acts such as the GDPR and the Audiovisual Media Services Directive. The study highlights the influence of EU legislation on national laws, including in non-EU states, and the pervasive “Brussels Effect” shaping legal framework. The study briefly explores the DSA’s provisions, including liability exemptions, obligations related to terms of service, transparency requirements, and regulations on algorithmic recommender systems. It provides an overview of the current regulatory landscape, emphasizing the importance of harmonizing platform regulations with human rights obligations across both EU and non-EU countries."
 
 cite_as:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann, Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms. Guidelines for Companies. (Hamburg: Verlag Hans-Bredow-Institut, 2024)"
 
@@ -80,6 +82,8 @@ further_publications:
      url: https://graphite.page/GDHRNet-WP4
 
 further_links:
+   - label: "Part #2 of the study: Assessment Model for States"
+     url: https://graphite.page/DSA-assessment-model
    - label: Global Digital Human Rights Network
      url: https://gdhrnet.eu
    - label: COST Action GDHRNet – CA19143

@@ -13,7 +13,6 @@
 :-------------------- CHAPTER_HEADER --------------------:
 image: "theme/images/bg_chapter.png"
 title: Questionnaire and summary of responses
-subtitle: XXX
 :---------------------------------------------------------: 
 
 ## Which obligations do platforms have (DSA and non-DSA obligations of platforms related to human rights in law and jurisprudence)

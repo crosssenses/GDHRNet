@@ -2,28 +2,28 @@
 # —————————————————————
 
 title:                  "Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms? "
-subtitle:               "Guidelines for Companies"
+subtitle:               "Assessment Model for States"
 authors:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann"
 year:                   2024
 date_publication:       September 2024
 # date_submission:
 # date_last_updated:
 
-keywords:               XXX, XXX
+keywords:               Digital Services Act, Digital Services Coordinator, human rights online, EU, digital governance
 
-abstract:               "XXX This study, the fourth in a series conducted within the Global Digital Human Rights Network, focuses on the changes in (social) media governance after Russia’s attack on Ukraine. This study analyses how 29 states, including 18 EU members, have dealt with governing information flows related to the informational dimension of Russia’s war on Ukraine.\n
+abstract:               "This study is a key output from the  GDHRNet (Global Digital Human Rights Network), which is dedicated to the investigation of theoretical and practical challenges of the protection of human rights in the digital context. The study aims to develop an assessment model to evaluate the compliance of online companies with human rights protection obligations. The research utilized a questionnaire focused on national platform oversight structures, sent to GDHRNet members, with responses from nine participants, seven from EU member states and two from non-EU states.\n
 
-                        Based on questions answered by country rapporteurs, and analysis by a team of editors, this study shows a common approach by EU member states after the EU’s ban on Russian state-sponsored media. Non-EU-states tend to have a less vigorous response to Russian state-sponsored media.\n"
+  The study's findings revealed that most participating states have appointed a Digital Services Coordinator (DSC) as required under the Digital Services Act (DSA), typically selecting existing telecommunications or media authorities for this role. While most DSCs are reported to be adequately equipped, staffing and financing issues remain. DSCs generally have sufficient authority to request data from service providers, and national legislation aligns closely with DSA requirements, particularly regarding sanctions for non-compliance."
 
-cite_as:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann, Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms. Guidelines for Companies. (Hamburg: Verlag Hans-Bredow-Institut, 2024)"
+cite_as:                "Martin Müller, Felicitas Rachinger, Meryem Vural & Matthias C. Kettemann, Do the New European Rules on Digital Services Effectively Ensure Human Rights on Platforms. Assessment Model for States. (Hamburg: Verlag Hans-Bredow-Institut, 2024)"
 
 pdf_url:                https://graphite.page/GDHRNet-WP2/assets/documents/GDHRNet-Working_Paper-4.pdf
 # doi:                    10.21241/ssoar.78580
 # isbn:                   978-989-746-128-6
 contact_email:          m.kettemann@leibniz-hbi.de
 
-short_url:              https://graphite.page/DSA-guidelines
-social_image_url:       https://graphite.page/DSA-guidelines/assets/images/social.png
+short_url:              https://graphite.page/DSA-assessment-model
+social_image_url:       https://graphite.page/DSA-assessment-model/assets/images/social.png
 lang:                   en
 
 
@@ -80,6 +80,8 @@ further_publications:
      url: https://graphite.page/GDHRNet-WP4
 
 further_links:
+   - label: "Part #1 of the study: Guidelines for Companies"
+     url: https://graphite.page/dsa-guidelines
    - label: Global Digital Human Rights Network
      url: https://gdhrnet.eu
    - label: COST Action GDHRNet – CA19143

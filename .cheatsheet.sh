@@ -33,11 +33,12 @@ ref$1:\n    short: "$2"\n    long: "$2"
 
     replace with
 
+
+
 \[\s(.*?)\]\(.*\)
 
     replace with
 
- $1
 
 
 
@@ -54,6 +55,9 @@ $1 $2$3\n    url: "$2"
 ^# \*\*(.*?)\*\*
 
     replace with
+
+ $1
+
 
 
 :-------------------- CHAPTER_HEADER --------------------:

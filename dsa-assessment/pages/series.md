@@ -1,6 +1,6 @@
 # GDHRNet Working Paper Series
 
-XXX The Working Papers of the [Global Digital Human Rights Network](https://gdhrnet.eu/) – edited by Mart Susi and Matthias C. Kettemann – addresses both idealistic as well as practice-oriented dimensions of the field. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series questions this approach and, through empirical studies and dogmatic analysis, provide best practice models for the protection of human rights in times of powerful private actors and digital challenges to individual freedoms and social cohesion.
+The Working Papers of the [Global Digital Human Rights Network](https://gdhrnet.eu/) – edited by Mart Susi and Matthias C. Kettemann – addresses both idealistic as well as practice-oriented dimensions of the field. Scholars working with digital human rights have for some time realized that in the digital domain of human rights theory matters less and technical solutions matter more. The Working Paper series questions this approach and, through empirical studies and dogmatic analysis, provide best practice models for the protection of human rights in times of powerful private actors and digital challenges to individual freedoms and social cohesion.
 :------------- KEYSTATEMENT ------------: 
 ### Publisher
 
